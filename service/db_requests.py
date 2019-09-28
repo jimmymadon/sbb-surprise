@@ -31,6 +31,20 @@ def get_location_by_id(id_):
     return result_location
 
 
+def get_coordinates_by_id(id_):
+    df = pd.read_csv("../train_stations_data.csv", sep=',')
+    for index, stop_id in enumerate(list(df.stop_id)):
+        if id_ == stop_id:
+            return df.iloc[index].stop_lat, df.iloc[index].stop_lon
+
+
+def get_picture_by_id(id_):
+    df = pd.read_csv("../station_pictures_data.csv", sep=',')
+    for index, stop_id in enumerate(list(df.stop_id)):
+        if id_ == stop_id:
+            return df.iloc[index].images
+
+
 def select_random_cities(quantity=5):
     """
     :param quantity: number of cities
@@ -42,10 +56,3 @@ def select_random_cities(quantity=5):
         rand_number = randint(0, df.shape[0] - 1)
         result_id_list.append(df.iloc[rand_number].stop_id)
     return result_id_list
-
-
-def get_coordinates_by_id(id_):
-    df = pd.read_csv("../train_stations_data.csv", sep=',')
-    for index, stop_id in enumerate(list(df.stop_id)):
-        if id_ == stop_id:
-            return df.iloc[index].stop_lat, df.iloc[index].stop_lon

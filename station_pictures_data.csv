@@ -1,0 +1,573 @@
+,stop_id,stop_name,images
+0,8014474,Waldshut,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Waldshut.jpg
+1,8014558,Singen (Hohentwiel),https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+2,8014586,Konstanz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Konstanz.jpg
+3,8500010,Basel SBB,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Basel_SBB.jpg
+4,8500016,Basel St. Johann,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Basel_St._Johann.jpg
+5,8500020,Muttenz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Muttenz.jpg
+6,8500021,Pratteln,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Pratteln.jpg
+7,8500022,Frenkendorf-Füllinsdorf,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+8,8500023,Liestal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Liestal.jpg
+9,8500024,Lausen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lausen.jpg
+10,8500025,Itingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Itingen.jpg
+11,8500026,Sissach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sissach.jpg
+12,8500027,Gelterkinden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gelterkinden.jpg
+13,8500028,Tecknau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Tecknau.jpg
+14,8500035,Läufelfingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+15,8500105,Moutier,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Moutier.jpg
+16,8500109,Delémont,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+17,8500113,Laufen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Laufen.jpg
+18,8500114,Zwingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zwingen.jpg
+19,8500115,Grellingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Grellingen.jpg
+20,8500117,Aesch,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Aesch.jpg
+21,8500118,Dornach-Arlesheim,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dornach-Arlesheim.jpg
+22,8500119,Münchenstein,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+23,8500121,Courfaivre,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Courfaivre.jpg
+24,8500122,Bassecourt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bassecourt.jpg
+25,8500123,Glovelier,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Glovelier.jpg
+26,8500125,Courgenay,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Courgenay.jpg
+27,8500126,Porrentruy,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Porrentruy.jpg
+28,8500127,Courtemaîche,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+29,8500128,Boncourt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Boncourt.jpg
+30,8500136,Basel Dreispitz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Basel_Dreispitz.jpg
+31,8500200,Pieterlen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Pieterlen.jpg
+32,8500201,Lengnau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lengnau.jpg
+33,8500202,Grenchen Süd,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+34,8500203,Bettlach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bettlach.jpg
+35,8500204,Selzach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Selzach.jpg
+36,8500205,Bellach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bellach.jpg
+37,8500206,Solothurn West,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Solothurn_West.jpg
+38,8500207,Solothurn,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Solothurn.jpg
+39,8500208,Luterbach-Attisholz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Luterbach-Attisholz.jpg
+40,8500209,Deitingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Deitingen.jpg
+41,8500210,Wangen an der Aare,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wangen_an_der_Aare.jpg
+42,8500211,Niederbipp,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Niederbipp.jpg
+43,8500212,Oensingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oensingen.jpg
+44,8500213,Oberbuchsiten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberbuchsiten.jpg
+45,8500214,Egerkingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Egerkingen.jpg
+46,8500215,Hägendorf,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+47,8500216,Wangen bei Olten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wangen_bei_Olten.jpg
+48,8500217,Olten Hammer,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Olten_Hammer.jpg
+49,8500218,Olten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Olten.jpg
+50,8500300,Kaiseraugst,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kaiseraugst.jpg
+51,8500301,Rheinfelden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rheinfelden.jpg
+52,8500302,Möhlin,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+53,8500303,Mumpf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Mumpf.jpg
+54,8500304,Eiken,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Eiken.jpg
+55,8500305,Frick,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Frick.jpg
+56,8500309,Brugg AG,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Brugg_AG.jpg
+57,8500313,Rheinfelden Augarten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rheinfelden_Augarten.jpg
+58,8500320,Stein-Säckingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+59,8500329,Koblenz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Koblenz.jpg
+60,8501000,Zimeysa,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+61,8501001,La Plaine,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+62,8501002,Russin,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+63,8501003,Satigny,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+64,8501006,Meyrin,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+65,8501007,Vernier,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+66,8501008,Genève,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+67,8501012,Creux-de-Genthod,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+68,8501014,Mies,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+69,8501020,Chambésy,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+70,8501022,Versoix,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+71,8501023,Coppet,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Coppet.jpg
+72,8501026,Genève-Aéroport,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+73,8501030,Nyon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Nyon.jpg
+74,8501031,Gland,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gland.jpg
+75,8501033,Rolle,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rolle.jpg
+76,8501035,Allaman,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Allaman.jpg
+77,8501036,St-Prex,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St-Prex.jpg
+78,8501037,Morges,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Morges.jpg
+79,8501042,Etoy,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Etoy.jpg
+80,8501045,Denges-Echandens,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Denges-Echandens.jpg
+81,8501047,Morges-St-Jean,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Morges-St-Jean.jpg
+82,8501048,Lonay-Préverenges,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+83,8501103,Vallorbe,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Vallorbe.jpg
+84,8501104,Le Day,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Le_Day.jpg
+85,8501105,Bretonnières,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+86,8501106,Croy-Romainmôtier,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+87,8501107,Arnex,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Arnex.jpg
+88,8501108,La Sarraz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/La_Sarraz.jpg
+89,8501110,Ependes,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ependes.jpg
+90,8501111,Essert-Pittet,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Essert-Pittet.jpg
+91,8501112,Chavornay,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Chavornay.jpg
+92,8501113,Bavois,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bavois.jpg
+93,8501114,Eclépens,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+94,8501115,Cossonay-Penthalaz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cossonay-Penthalaz.jpg
+95,8501116,Vufflens-la-Ville,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Vufflens-la-Ville.jpg
+96,8501117,Bussigny,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bussigny.jpg
+97,8501118,Renens VD,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Renens_VD.jpg
+98,8501120,Lausanne,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lausanne.jpg
+99,8501121,Pully,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+100,8501122,Lutry,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lutry.jpg
+101,8501123,Villette VD,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+102,8501124,Cully,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cully.jpg
+103,8501125,Epesses,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Epesses.jpg
+104,8501126,Rivaz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rivaz.jpg
+105,8501127,St-Saphorin,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St-Saphorin.jpg
+106,8501200,Vevey,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Vevey.jpg
+107,8501201,La Tour-de-Peilz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/La_Tour-de-Peilz.jpg
+108,8501202,Burier,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Burier.jpg
+109,8501203,Clarens,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Clarens.jpg
+110,8501300,Montreux,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Montreux.jpg
+111,8501301,Territet,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Territet.jpg
+112,8501302,Veytaux-Chillon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Veytaux-Chillon.jpg
+113,8501303,Villeneuve,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Villeneuve.jpg
+114,8501304,Roche VD,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Roche_VD.jpg
+115,8501400,Aigle,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Aigle.jpg
+116,8501402,Bex,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bex.jpg
+117,8501403,St-Maurice,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St-Maurice.jpg
+118,8501404,Evionnaz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Evionnaz.jpg
+119,8501405,Vernayaz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Vernayaz.jpg
+120,8501426,Bouveret,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bouveret.jpg
+121,8501500,Martigny,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Martigny.jpg
+122,8501501,Charrat-Fully,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+123,8501502,Saxon,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+124,8501503,Riddes,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+125,8501505,Ardon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ardon.jpg
+126,8501506,Sion,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sion.jpg
+127,8501507,St-Léonard,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+128,8501509,Sierre/Siders,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+129,8501510,Châteauneuf-Conthey,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+130,8501600,Salgesch,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Salgesch.jpg
+131,8501601,Leuk,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Leuk.jpg
+132,8501602,Turtmann,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Turtmann.jpg
+133,8501603,Gampel-Steg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gampel-Steg.jpg
+134,8501604,Raron,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Raron.jpg
+135,8501605,Visp,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Visp.jpg
+136,8501609,Brig,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Brig.jpg
+137,8502000,Aarburg-Oftringen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Aarburg-Oftringen.jpg
+138,8502001,Zofingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zofingen.jpg
+139,8502002,Brittnau-Wikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Brittnau-Wikon.jpg
+140,8502003,Reiden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Reiden.jpg
+141,8502004,Dagmersellen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dagmersellen.jpg
+142,8502005,Nebikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Nebikon.jpg
+143,8502006,Wauwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wauwil.jpg
+144,8502007,Sursee,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sursee.jpg
+145,8502008,Nottwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Nottwil.jpg
+146,8502009,Sempach-Neuenkirch,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sempach-Neuenkirch.jpg
+147,8502010,St. Erhard-Knutwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St._Erhard-Knutwil.jpg
+148,8502011,Oberkirch LU,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+149,8502012,Rothenburg Dorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rothenburg_Dorf.jpg
+150,8502017,Waldibrücke,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+151,8502020,Rothenburg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rothenburg.jpg
+152,8502021,Emmenbrücke,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+153,8502022,Eschenbach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Eschenbach.jpg
+154,8502023,Ballwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ballwil.jpg
+155,8502024,Hochdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hochdorf.jpg
+156,8502025,Baldegg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Baldegg.jpg
+157,8502027,Hitzkirch,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hitzkirch.jpg
+158,8502028,Emmenbrücke Gersag,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+159,8502030,Seon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Seon.jpg
+160,8502033,Birrwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Birrwil.jpg
+161,8502034,Beinwil am See,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Beinwil_am_See.jpg
+162,8502100,Safenwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Safenwil.jpg
+163,8502103,Suhr,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Suhr.jpg
+164,8502104,Hunzenschwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hunzenschwil.jpg
+165,8502105,Othmarsingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Othmarsingen.jpg
+166,8502106,Mägenwil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+167,8502110,Dulliken,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dulliken.jpg
+168,8502111,Däniken,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+169,8502112,Schönenwerd SO,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+170,8502113,Aarau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Aarau.jpg
+171,8502114,Rupperswil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rupperswil.jpg
+172,8502115,Wildegg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wildegg.jpg
+173,8502116,Schinznach Bad,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schinznach_Bad.jpg
+174,8502119,Lenzburg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lenzburg.jpg
+175,8502128,Holderbank AG,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Holderbank_AG.jpg
+176,8502200,Ebikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ebikon.jpg
+177,8502201,Gisikon-Root,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gisikon-Root.jpg
+178,8502202,Rotkreuz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rotkreuz.jpg
+179,8502203,Cham,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cham.jpg
+180,8502204,Zug,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zug.jpg
+181,8502205,Walchwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Walchwil.jpg
+182,8502206,Baar,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Baar.jpg
+183,8502208,Horgen Oberdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Horgen_Oberdorf.jpg
+184,8502209,Oberrieden Dorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberrieden_Dorf.jpg
+185,8502211,Hendschiken,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hendschiken.jpg
+186,8502212,Dottikon-Dintikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dottikon-Dintikon.jpg
+187,8502213,Wohlen AG,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+188,8502214,Boswil-Bünzen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+189,8502215,Muri AG,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Muri_AG.jpg
+190,8502216,Benzenschwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Benzenschwil.jpg
+191,8502217,Mühlau,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+192,8502218,Sins,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sins.jpg
+193,8502219,Oberrüti,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+194,8502220,Urdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Urdorf.jpg
+195,8502221,Birmensdorf ZH,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Birmensdorf_ZH.jpg
+196,8502222,Bonstetten-Wettswil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bonstetten-Wettswil.jpg
+197,8502223,Hedingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hedingen.jpg
+198,8502224,Affoltern am Albis,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Affoltern_am_Albis.jpg
+199,8502226,Knonau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Knonau.jpg
+200,8502227,Steinhausen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Steinhausen.jpg
+201,8502229,Urdorf Weihermatt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Urdorf_Weihermatt.jpg
+202,8502230,Zug Chollermüli,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+203,8502231,Zug Oberwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zug_Oberwil.jpg
+204,8502237,Lupfig,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lupfig.jpg
+205,8502247,Birr,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Birr.jpg
+206,8502306,Hünenberg Chämleten,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+207,8503000,Zürich HB,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+208,8503001,Zürich Altstetten,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+209,8503003,Zürich Stadelhofen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+210,8503004,Zürich Tiefenbrunnen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+211,8503006,Zürich Oerlikon,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+212,8503007,Zürich Seebach,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+213,8503008,Zürich Affoltern,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+214,8503009,Zürich Wollishofen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+215,8503010,Zürich Enge,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+216,8503011,Zürich Wiedikon,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+217,8503015,Zürich Wipkingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+218,8503016,Zürich Flughafen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+219,8503020,Zürich Hardbrücke,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+220,8503100,Zollikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zollikon.jpg
+221,8503101,Küsnacht ZH,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+222,8503102,Erlenbach ZH,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Erlenbach_ZH.jpg
+223,8503103,Herrliberg-Feldmeilen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Herrliberg-Feldmeilen.jpg
+224,8503104,Meilen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Meilen.jpg
+225,8503105,Uetikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Uetikon.jpg
+226,8503107,Stäfa,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+227,8503108,Uerikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Uerikon.jpg
+228,8503109,Feldbach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Feldbach.jpg
+229,8503110,Rapperswil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rapperswil.jpg
+230,8503111,Winkel am Zürichsee,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+231,8503115,Schmerikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schmerikon.jpg
+232,8503116,Uznach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Uznach.jpg
+233,8503120,Jona,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Jona.jpg
+234,8503121,Rüti ZH,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+235,8503122,Bubikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bubikon.jpg
+236,8503123,Wetzikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wetzikon.jpg
+237,8503124,Aathal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Aathal.jpg
+238,8503125,Uster,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Uster.jpg
+239,8503126,Nänikon-Greifensee,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+240,8503127,Schwerzenbach ZH,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schwerzenbach_ZH.jpg
+241,8503128,Dübendorf,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+242,8503129,Wallisellen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wallisellen.jpg
+243,8503130,Hinwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hinwil.jpg
+244,8503134,Bauma,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bauma.jpg
+245,8503136,Fischenthal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Fischenthal.jpg
+246,8503138,Wald,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wald.jpg
+247,8503139,Tann-Dürnten,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+248,8503141,Küsnacht Goldbach,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+249,8503147,Stettbach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Stettbach.jpg
+250,8503200,Kilchberg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kilchberg.jpg
+251,8503201,Rüschlikon,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+252,8503202,Thalwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Thalwil.jpg
+253,8503203,Oberrieden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberrieden.jpg
+254,8503204,Horgen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Horgen.jpg
+255,8503205,Au ZH,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Au_ZH.jpg
+256,8503206,Wädenswil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+257,8503207,Richterswil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Richterswil.jpg
+258,8503208,Bäch,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+259,8503209,Pfäffikon SZ,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+260,8503210,Freienbach SBB,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Freienbach_SBB.jpg
+261,8503211,Altendorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Altendorf.jpg
+262,8503220,Lachen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+263,8503221,Siebnen-Wangen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+264,8503222,Schübelbach-Buttikon,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+265,8503223,Reichenburg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Reichenburg.jpg
+266,8503224,Bilten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bilten.jpg
+267,8503225,Ziegelbrücke,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+268,8503228,Netstal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Netstal.jpg
+269,8503230,Glarus,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Glarus.jpg
+270,8503231,Ennenda,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ennenda.jpg
+271,8503233,Schwanden GL,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+272,8503239,Linthal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Linthal.jpg
+273,8503301,Pfäffikon ZH,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+274,8503302,Fehraltorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Fehraltorf.jpg
+275,8503303,Illnau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Illnau.jpg
+276,8503304,Kemptthal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kemptthal.jpg
+277,8503305,Effretikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Effretikon.jpg
+278,8503306,Dietlikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dietlikon.jpg
+279,8503307,Bassersdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bassersdorf.jpg
+280,8503308,Kloten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kloten.jpg
+281,8503310,Glattbrugg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Glattbrugg.jpg
+282,8503311,Rümlang,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+283,8503312,Oberglatt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberglatt.jpg
+284,8503313,Niederglatt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Niederglatt.jpg
+285,8503315,Dielsdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dielsdorf.jpg
+286,8503340,Opfikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Opfikon.jpg
+287,8503400,Bülach,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+288,8503401,Glattfelden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Glattfelden.jpg
+289,8503402,Eglisau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Eglisau.jpg
+290,8503403,Hüntwangen-Wil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+291,8503404,Rafz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rafz.jpg
+292,8503408,Rekingen AG,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rekingen_AG.jpg
+293,8503409,Bad Zurzach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bad_Zurzach.jpg
+294,8503421,Jestetten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Jestetten.jpg
+295,8503423,Neuhausen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Neuhausen.jpg
+296,8503424,Schaffhausen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schaffhausen.jpg
+297,8503428,Diessenhofen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Diessenhofen.jpg
+298,8503501,Döttingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+299,8503502,Siggenthal-Würenlingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+300,8503503,Turgi,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Turgi.jpg
+301,8503504,Baden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Baden.jpg
+302,8503505,Wettingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wettingen.jpg
+303,8503506,Killwangen-Spreitenbach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Killwangen-Spreitenbach.jpg
+304,8503508,Dietikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dietikon.jpg
+305,8503509,Schlieren,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schlieren.jpg
+306,8503511,Neuenhof,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Neuenhof.jpg
+307,8503512,Glanzenberg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Glanzenberg.jpg
+308,8503526,Regensdorf-Watt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Regensdorf-Watt.jpg
+309,8503528,Otelfingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Otelfingen.jpg
+310,8503529,Würenlos,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+311,8504000,Pully-Nord,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+312,8504003,Bossière,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+313,8504007,Moreillon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Moreillon.jpg
+314,8504010,La Conversion,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/La_Conversion.jpg
+315,8504011,Grandvaux,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Grandvaux.jpg
+316,8504014,Palézieux,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+317,8504015,Vevey-Funi,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Vevey-Funi.jpg
+318,8504018,Ecublens-Rue,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ecublens-Rue.jpg
+319,8504020,Oron,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oron.jpg
+320,8504021,Vauderens,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Vauderens.jpg
+321,8504023,Romont,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Romont.jpg
+322,8504024,Villaz-St-Pierre,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Villaz-St-Pierre.jpg
+323,8504025,Chénens,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+324,8504026,Cottens,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cottens.jpg
+325,8504027,Neyruz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Neyruz.jpg
+326,8504028,Rosé,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+327,8504029,Matran,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Matran.jpg
+328,8504030,Villars-sur-Glâne,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+329,8504040,Corseaux-Cornalles,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Corseaux-Cornalles.jpg
+330,8504100,Fribourg/Freiburg,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+331,8504101,Düdingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+332,8504102,Schmitten,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schmitten.jpg
+333,8504103,Flamatt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Flamatt.jpg
+334,8504104,Thörishaus Station,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+335,8504105,Niederwangen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Niederwangen.jpg
+336,8504106,Bern Bümpliz Süd,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+337,8504108,Bern Europaplatz,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+338,8504113,Wünnewil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+339,8504115,Thörishaus Dorf,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+340,8504117,Oberwangen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberwangen.jpg
+341,8504120,Moudon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Moudon.jpg
+342,8504121,Lucens,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lucens.jpg
+343,8504122,Granges-Marnand,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Granges-Marnand.jpg
+344,8504128,Murten/Morat,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+345,8504129,Galmiz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Galmiz.jpg
+346,8504130,Yvonand,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+347,8504131,Cheyres,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+348,8504132,Estavayer-le-Lac,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Estavayer-le-Lac.jpg
+349,8504134,Payerne,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Payerne.jpg
+350,8504138,Grolley,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Grolley.jpg
+351,8504141,Henniez,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Henniez.jpg
+352,8504200,Yverdon-les-Bains,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Yverdon-les-Bains.jpg
+353,8504201,Grandson,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Grandson.jpg
+354,8504203,Concise,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Concise.jpg
+355,8504205,Gorgier-St-Aubin,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gorgier-St-Aubin.jpg
+356,8504206,Bevaix,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bevaix.jpg
+357,8504208,Boudry,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Boudry.jpg
+358,8504209,Colombier,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Colombier.jpg
+359,8504215,Travers,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Travers.jpg
+360,8504217,Champ-du-Moulin,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Champ-du-Moulin.jpg
+361,8504219,Auvernier,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Auvernier.jpg
+362,8504220,Neuchâtel-Serrières,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+363,8504221,Neuchâtel,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+364,8504222,St-Blaise CFF,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St-Blaise_CFF.jpg
+365,8504223,Cornaux,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cornaux.jpg
+366,8504224,Cressier NE,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cressier_NE.jpg
+367,8504225,Le Landeron,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Le_Landeron.jpg
+368,8504226,La Neuveville,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/La_Neuveville.jpg
+369,8504228,Twann,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Twann.jpg
+370,8504229,Tüscherz,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+371,8504236,Les Geneveys-sur-Coffrane,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Les_Geneveys-sur-Coffrane.jpg
+372,8504237,Les Hauts-Geneveys,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Les_Hauts-Geneveys.jpg
+373,8504300,Biel/Bienne,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+374,8504302,Reuchenette-Péry,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+375,8504304,Sonceboz-Sombeval,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sonceboz-Sombeval.jpg
+376,8504307,Courtelary,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Courtelary.jpg
+377,8504310,St-Imier,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St-Imier.jpg
+378,8504312,Renan BE,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Renan_BE.jpg
+379,8504314,La Chaux-de-Fonds,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/La_Chaux-de-Fonds.jpg
+380,8504316,Le Locle,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Le_Locle.jpg
+381,8504400,Kerzers,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kerzers.jpg
+382,8504410,Zollikofen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zollikofen.jpg
+383,8504411,Münchenbuchsee,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+384,8504412,Schüpfen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+385,8504413,Suberg-Grossaffoltern,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Suberg-Grossaffoltern.jpg
+386,8504414,Lyss,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lyss.jpg
+387,8504415,Busswil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Busswil.jpg
+388,8504416,Brügg BE,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+389,8504419,Biel Mett,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Biel_Mett.jpg
+390,8504441,Studen BE,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Studen_BE.jpg
+391,8505000,Luzern,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Luzern.jpg
+392,8505001,Meggen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Meggen.jpg
+393,8505002,Küssnacht am Rigi,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+394,8505003,Immensee,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Immensee.jpg
+395,8505004,Arth-Goldau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Arth-Goldau.jpg
+396,8505005,Steinen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Steinen.jpg
+397,8505006,Schwyz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schwyz.jpg
+398,8505007,Brunnen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Brunnen.jpg
+399,8505111,Sisikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sisikon.jpg
+400,8505112,Flüelen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+401,8505113,Altdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Altdorf.jpg
+402,8505114,Erstfeld,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+403,8505119,Göschenen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+404,8505201,Airolo,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Airolo.jpg
+405,8505202,Ambrì-Piotta,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+406,8505204,Faido,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Faido.jpg
+407,8505205,Lavorgo,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lavorgo.jpg
+408,8505207,Bodio TI,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bodio_TI.jpg
+409,8505209,Biasca,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Biasca.jpg
+410,8505212,Castione-Arbedo,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Castione-Arbedo.jpg
+411,8505213,Bellinzona,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bellinzona.jpg
+412,8505214,Giubiasco,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Giubiasco.jpg
+413,8505216,Rivera-Bironico,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rivera-Bironico.jpg
+414,8505217,Mezzovico,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Mezzovico.jpg
+415,8505218,Taverne-Torricella,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Taverne-Torricella.jpg
+416,8505219,Lamone-Cadempino,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lamone-Cadempino.jpg
+417,8505300,Lugano,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lugano.jpg
+418,8505301,Lugano-Paradiso,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+419,8505302,Melide,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Melide.jpg
+420,8505303,Maroggia-Melano,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Maroggia-Melano.jpg
+421,8505304,Capolago-Riva S. Vitale,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Capolago-Riva_S._Vitale.jpg
+422,8505305,Mendrisio,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Mendrisio.jpg
+423,8505306,Balerna,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Balerna.jpg
+424,8505307,Chiasso,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Chiasso.jpg
+425,8505400,Locarno,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Locarno.jpg
+426,8505401,Tenero,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Tenero.jpg
+427,8505402,Gordola,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gordola.jpg
+428,8505404,Cadenazzo,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cadenazzo.jpg
+429,8505408,Ranzo-S. Abbondio,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+430,8505410,Gerra (Gambarogno),https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+431,8505412,Riazzino,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Riazzino.jpg
+432,8505415,S. Antonino,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/S._Antonino.jpg
+433,8506000,Winterthur,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Winterthur.jpg
+434,8506001,Winterthur Grüze,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+435,8506002,Winterthur Seen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+436,8506003,Sennhof-Kyburg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sennhof-Kyburg.jpg
+437,8506005,Rikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rikon.jpg
+438,8506008,Wila,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wila.jpg
+439,8506009,Saland,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Saland.jpg
+440,8506010,Sirnach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sirnach.jpg
+441,8506011,Eschlikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Eschlikon.jpg
+442,8506012,Guntershausen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Guntershausen.jpg
+443,8506013,Aadorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Aadorf.jpg
+444,8506014,Elgg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Elgg.jpg
+445,8506015,Räterschen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+446,8506016,Oberwinterthur,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberwinterthur.jpg
+447,8506017,Wiesendangen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wiesendangen.jpg
+448,8506018,Rickenbach-Attikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rickenbach-Attikon.jpg
+449,8506019,Islikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Islikon.jpg
+450,8506020,Seuzach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Seuzach.jpg
+451,8506022,Thalheim-Altikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Thalheim-Altikon.jpg
+452,8506024,Stammheim,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Stammheim.jpg
+453,8506025,Etzwilen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Etzwilen.jpg
+454,8506035,Schottikon,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schottikon.jpg
+455,8506041,Embrach-Rorbas,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Embrach-Rorbas.jpg
+456,8506042,Pfungen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Pfungen.jpg
+457,8506043,Winterthur Wülflingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+458,8506044,Winterthur Töss,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+459,8506045,Hettlingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hettlingen.jpg
+460,8506046,Henggart,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Henggart.jpg
+461,8506047,Andelfingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Andelfingen.jpg
+462,8506048,Marthalen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Marthalen.jpg
+463,8506049,Dachsen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Dachsen.jpg
+464,8506100,Frauenfeld,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Frauenfeld.jpg
+465,8506101,Felben-Wellhausen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Felben-Wellhausen.jpg
+466,8506102,Hüttlingen-Mettendorf,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+467,8506103,Müllheim-Wigoltingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+468,8506104,Märstetten,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+469,8506105,Weinfelden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Weinfelden.jpg
+470,8506106,Bürglen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+471,8506107,Erlen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Erlen.jpg
+472,8506108,Oberaach,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+473,8506109,Amriswil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Amriswil.jpg
+474,8506121,Romanshorn,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Romanshorn.jpg
+475,8506125,Altnau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Altnau.jpg
+476,8506128,Kreuzlingen Hafen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kreuzlingen_Hafen.jpg
+477,8506131,Kreuzlingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kreuzlingen.jpg
+478,8506132,Tägerwilen-Gottlieben,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+479,8506135,Berlingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Berlingen.jpg
+480,8506139,Stein am Rhein,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Stein_am_Rhein.jpg
+481,8506203,Bütschwil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+482,8506206,Wil SG,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+483,8506208,Uzwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Uzwil.jpg
+484,8506209,Flawil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Flawil.jpg
+485,8506210,Gossau SG,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Gossau_SG.jpg
+486,8506212,Hauptwil,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hauptwil.jpg
+487,8506213,Bischofszell Stadt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bischofszell_Stadt.jpg
+488,8506216,Kradolf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kradolf.jpg
+489,8506217,Sulgen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sulgen.jpg
+490,8506300,St. Gallen Winkeln,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St._Gallen_Winkeln.jpg
+491,8506301,St. Gallen Bruggen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St._Gallen_Bruggen.jpg
+492,8506302,St. Gallen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St._Gallen.jpg
+493,8506303,St. Gallen St. Fiden,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St._Gallen_St._Fiden.jpg
+494,8506304,Mörschwil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+495,8506305,Goldach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Goldach.jpg
+496,8506306,Rorschach Hafen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rorschach_Hafen.jpg
+497,8506307,Horn,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Horn.jpg
+498,8506311,Rorschach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rorschach.jpg
+499,8506312,Staad,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Staad.jpg
+500,8506313,Rheineck,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rheineck.jpg
+501,8506314,St. Margrethen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/St._Margrethen.jpg
+502,8506316,Au SG,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Au_SG.jpg
+503,8506317,Heerbrugg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Heerbrugg.jpg
+504,8506318,Rebstein-Marbach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rebstein-Marbach.jpg
+505,8506319,Altstätten SG,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+506,8506322,Rorschach Stadt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rorschach_Stadt.jpg
+507,8507000,Bern,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bern.jpg
+508,8507002,Ostermundigen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Ostermundigen.jpg
+509,8507003,Gümligen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+510,8507005,Rubigen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rubigen.jpg
+511,8507006,Münsingen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+512,8507007,Wichtrach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wichtrach.jpg
+513,8507008,Kiesen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Kiesen.jpg
+514,8507009,Uttigen,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+515,8507100,Thun,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Thun.jpg
+516,8508001,Schönbühl SBB,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+517,8508003,Hindelbank,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Hindelbank.jpg
+518,8508004,Lyssach,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lyssach.jpg
+519,8508005,Burgdorf,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Burgdorf.jpg
+520,8508006,Wynigen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wynigen.jpg
+521,8508008,Herzogenbuchsee,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Herzogenbuchsee.jpg
+522,8508100,Langenthal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Langenthal.jpg
+523,8508101,Roggwil-Wynau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Roggwil-Wynau.jpg
+524,8508102,Murgenthal,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Murgenthal.jpg
+525,8508103,Rothrist,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Rothrist.jpg
+526,8508201,Tägertschi,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+527,8508202,Konolfingen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Konolfingen.jpg
+528,8508203,Zäziwil,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+529,8508205,Signau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Signau.jpg
+530,8508207,Langnau i.E.,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+531,8508208,Trubschachen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Trubschachen.jpg
+532,8508211,Schüpfheim,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+533,8508215,Wolhusen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Wolhusen.jpg
+534,8508217,Schachen LU,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Schachen_LU.jpg
+535,8508218,Malters,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Malters.jpg
+536,8508219,Littau,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Littau.jpg
+537,8509000,Chur,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Chur.jpg
+538,8509002,Landquart,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Landquart.jpg
+539,8509003,Maienfeld,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Maienfeld.jpg
+540,8509004,Bad Ragaz,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Bad_Ragaz.jpg
+541,8509400,Oberriet,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Oberriet.jpg
+542,8509404,Buchs SG,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+543,8509406,Sevelen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sevelen.jpg
+544,8509411,Sargans,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Sargans.jpg
+545,8509412,Mels,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Mels.jpg
+546,8509413,Flums,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Flums.jpg
+547,8509414,Walenstadt,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Walenstadt.jpg
+548,8509415,Mols,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Mols.jpg
+549,8509416,Unterterzen,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Unterterzen.jpg
+550,8509417,Murg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Murg.jpg
+551,8509418,Mühlehorn,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+552,8515992,Baar Neufeld,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Baar_Neufeld.jpg
+553,8515993,Baar Lindenpark,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Baar_Lindenpark.jpg
+554,8515995,Cham Alpenblick,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Cham_Alpenblick.jpg
+555,8515996,Hünenberg Zythus,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+556,8515997,Root D4,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Root_D4.jpg
+557,8516155,Lancy-Pont-Rouge,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+558,8516161,Bern Wankdorf,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+559,8516187,Zug Schutzengel,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Zug_Schutzengel.jpg
+560,8516218,Winterthur Hegi,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Winterthur_Hegi.jpg
+561,8516219,Mellingen Heitersberg,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Mellingen_Heitersberg.jpg
+562,8516350,Buchrain,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Buchrain.jpg
+563,8517131,Pratteln Salina Raurica,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Pratteln_Salina_Raurica.jpg
+564,8517336,Luzern Verkehrshaus,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Luzern_Verkehrshaus.jpg
+565,8517519,Stabio,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Stabio.jpg
+566,8518452,Prilly-Malley,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Prilly-Malley.jpg
+567,8518475,Mendrisio S. Martino,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+568,8518749,Lyss Grien,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Lyss_Grien.jpg
+569,8518771,Biel/Bienne Bözingenfeld/Champ,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
+570,8518963,Solothurn Allmend,https://www.schienenverkehr-schweiz.ch/Bilder/Bahnhof/Klein/Solothurn_Allmend.jpg
+571,8519133,Fribourg/Freiburg Poya,https://sun9-6.userapi.com/c855024/v855024387/10c993/7tcCa7QJyx0.jpg
