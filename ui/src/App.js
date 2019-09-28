@@ -27,7 +27,10 @@ class App extends Component {
       {
         headers: {
           'Accept': 'application/json',
-          'Content-Type': 'application/json'
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Headers': '*',
+          'Access-Control-Allow-Methods': '*',
         },
         method: 'POST',
         body: JSON.stringify(formData)
@@ -38,7 +41,8 @@ class App extends Component {
           result: response.result,
           isLoading: false
         });
-      });
+      })
+      .catch(()=> console.log("ERROR"))
   }
 
   render() {
