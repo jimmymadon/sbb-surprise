@@ -1,9 +1,7 @@
 from flask import Flask, request, jsonify, make_response
 from flask_restplus import Api, Resource, fields
 import requests
-
-
-from service.db_requests import get_id_by_location, select_random_cities
+from db_requests import get_id_by_location, select_random_cities
 
 
 CLIENT_ID = "22ebc2be"
