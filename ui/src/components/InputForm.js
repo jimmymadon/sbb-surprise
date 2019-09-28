@@ -68,26 +68,14 @@ class InputForm extends Component {
               value={formData.timeOfTravel}
               onChange={this.handleChange} />
         </Form.Group>
-        <Row>
           <Col>
             <Button
               block
-              variant="success"
               disabled={isLoading}
               onClick={!isLoading ? () => {this.handleSurpriseClick(onSubmit)} : null}>
               { isLoading ? 'Loading' : 'Surprise Me!' }
             </Button>
           </Col>
-          <Col>
-            <Button
-              block
-              variant="danger"
-              disabled={isLoading}
-              onClick={!isLoading ? this.handleCancelClick : null}>
-              { isLoading ? 'Loading' : 'Reset' }
-            </Button>
-          </Col>
-        </Row>
       </Form>
     );
   }

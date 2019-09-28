@@ -57,7 +57,7 @@ class App extends Component {
             <div class="col-md-7 col-md-push-5">
               <div class="booking-cta">
                 <h1>Where will we take you next?</h1>
-                <p>Enter the destination you would like to start from, pick a date and pack your bags to travel to a surpirse destination for upto 70% less!
+                <p>Enter the destination you would like to start from, pick a date and pack your bags to travel to a surprise destination for upto 70% less!
                 </p>
               </div>
             </div>

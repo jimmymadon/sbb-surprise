@@ -14,7 +14,6 @@
 
 #booking {
 	font-family: 'Montserrat', sans-serif;
-	background-image: url('background.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -26,7 +25,7 @@
 	right: 0;
 	bottom: 0;
 	top: 0;
-	background: rgba(47, 103, 177, 0.6);
+	background: rgba(47, 103, 177, 0.3);
 }
 
 .booking-form {
@@ -133,6 +132,14 @@
 }
 
 .booking-cta p {
-	font-size: 16px;
+	font-size: 20px;
 	color: rgba(255, 255, 255, 0.8);
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
