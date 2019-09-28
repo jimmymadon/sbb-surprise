@@ -3,8 +3,6 @@ import Form from 'react-bootstrap/Form';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button';
-import 'bootstrap/dist/css/bootstrap.css';
-
 
 class InputForm extends Component {
 
@@ -47,17 +45,27 @@ class InputForm extends Component {
 
     return (
       <Form>
-        <Form.Row>
-          <Form.Group as={Col}>
-            <Form.Label>Starting Location</Form.Label>
-            <Form.Control 
-              type="text" 
-              placeholder="Starting Location" 
-              name="startingLocation"
-              value={formData.startingLocation}
+        <Form.Group>
+          <Form.Label>Your Starting Location</Form.Label>
+          <Form.Control
+            type="text"
+            placeholder="Starting Location"
+            name="startingLocation"
+            value={formData.startingLocation}
+            onChange={this.handleChange} />
+          <Form.Label>Date of Travel</Form.Label>
+            <Form.Control
+              type="date"
+              name="dateOfTravel"
+              value={formData.dateOfTravel}
               onChange={this.handleChange} />
-          </Form.Group>
-        </Form.Row>
+          <Form.Label>Time of Travel</Form.Label>
+            <Form.Control
+              type="time"
+              name="timeOfTravel"
+              value={formData.timeOfTravel}
+              onChange={this.handleChange} />
+        </Form.Group>
         <Row>
           <Col>
             <Button
