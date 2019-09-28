@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
 import './App.css';
-import Form from 'react-bootstrap/Form';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
-import Button from 'react-bootstrap/Button';
 import InputForm from "./components/InputForm";
-import 'bootstrap/dist/css/bootstrap.css';
+import ResultsList from './components/ResultsList';
 
 class App extends Component {
 
@@ -23,7 +21,7 @@ class App extends Component {
   }
 
   handleSurpriseRequest = (formData, event) => {
-    fetch('http://127.0.0.1:5000/prediction/', 
+    fetch('http://127.0.0.1:5000/prediction/',
       {
         headers: {
           'Accept': 'application/json',
@@ -39,10 +37,16 @@ class App extends Component {
         .then(response => {
           console.log(response)
           this.setState({
-            result: response.result,
+            // result: response.result,
+            result: {
+              dest: "Zurich",
+              start: "10:22",
+              ret: "20:00",
+              price:"12.80 CHF",
+              picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
+            },
             isLoading: false
           });
-          console.log("blblbl")
         })
       )
       .catch((error)=> {console.log("ERROR"); console.log(error)})
@@ -54,23 +58,27 @@ class App extends Component {
     const result = this.state.result;
 
     return (
-      <Container>
-        <div>
-          <h1 className="title">SBB Surprise!</h1>
+      <div class="section-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-7 col-md-push-5">
+              <div class="booking-cta">
+                <h1>Where will we take you next?</h1>
+                <p>Enter the destination you would like to start from, pick a date and pack your bags to travel to a surprise destination for upto 70% less!
+                </p>
+              </div>
+              <ResultsList data={result} />
+            </div>
+            <div class="col-md-4 col-md-pull-7">
+              <div class="booking-form">
+                <InputForm
+                  onSubmit={this.handleSurpriseRequest}
+                  isLoading={this.state.isLoading} />
+              </div>
+            </div>
+          </div>
         </div>
-        <div className="content">
-          <InputForm
-            onSubmit={this.handleSurpriseRequest}
-            isLoading={this.state.isLoading} />
-          {result === "" ? null :
-            (<Row>
-              <Col className="result-container">
-                <h5 id="result">{result}</h5>
-              </Col>
-            </Row>)
-          }
-        </div>
-      </Container>
+      </div>
     );
   }
 }

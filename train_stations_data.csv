@@ -571,3 +571,5 @@
 569,8518771,Biel/Bienne Bözingenfeld/Champ,47.1583913390932,7.294589602651159,1.0,
 570,8518963,Solothurn Allmend,47.2088769485575,7.5214321782286,1.0,
 571,8519133,Fribourg/Freiburg Poya,46.814702028721,7.15543158196884,1.0,
+572,8509773,"Flims Dorf, Post",46.8367789862,9.28756689599,1.0,
+,stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
