@@ -65,9 +65,6 @@ def select_results(params, access_token):
         f"destinationId={destinationId}&originId={params.originId}&time={params.time}&trainType={params.train_type}",
         headers=headers) for destinationId in params.destinationIds]
 
-    #print([r for r in request_results if r.status_code < 400])
-    print([r.json()[0]["segments"][0]["destination"]["name"] for r in request_results if r.status_code == 200])
-
     request_results = [r.json() for r in request_results if r.status_code == 200]
     offers_details = [[call_for_offer_details(offer, access_token) for offer in res] for res in request_results]
     offers = dict([(destinationId, []) for destinationId in params.destinationIds])

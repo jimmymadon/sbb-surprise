@@ -24,8 +24,8 @@ name_space = app.namespace('prediction', description='Prediction APIs')
 model = app.model('Prediction params',
                   {'startingLocation': fields.String(required=True, description="From",
                                                      help="Text Field 1 cannot be blank"),
-                   "date": fields.String(required=True, description="data"),
-                   "time": fields.String(required=True, description="time")})
+                   "dateOfTravel": fields.String(required=True, description="data"),
+                   "timeOfTravel": fields.String(required=True, description="time")})
 
 
 @name_space.route("/")
@@ -45,8 +45,8 @@ class MainClass(Resource):
             destinationIds = select_random_cities(10)
             data_json = json.loads(request.data.decode('utf8'))
             originId = get_id_by_location(data_json['startingLocation'])
-            departure_date = data_json['date']
-            departure_time = data_json['time']
+            departure_date = data_json['dateOfTravel']
+            departure_time = data_json['timeOfTravel']
             search_params = RequestParams(departure_date, destinationIds, originId, departure_time)
 
             auth = requests.post("https://sso-int.sbb.ch/auth/realms/SBB_Public/protocol/openid-connect/token",
@@ -93,11 +93,10 @@ class MainClass(Resource):
                 "price_forward": forward_ticket.price,
                 "price_backward": backward_ticket.price
             })
-            print(response)
+            #print(response)
             return response
         except Exception as error:
-            print("porcodio")
-            print(error)
+            #print(error)
             return jsonify({
                 "statusCode": 500,
                 "status": "Error",
