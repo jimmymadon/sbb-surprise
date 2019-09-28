@@ -1,0 +1,60 @@
+,stop_id,stop_name,hiking,shopping,sightseeing,discovering
+0,8502220,Urdorf,0,1,0,0
+1,8502221,Birmensdorf ZH,0,1,0,0
+2,8502222,Bonstetten-Wettswil,0,1,0,0
+3,8502229,Urdorf Weihermatt,0,1,0,0
+4,8503000,Zürich HB,0,2,0,0
+5,8503001,Zürich Altstetten,0,1,0,0
+6,8503003,Zürich Stadelhofen,0,1,0,0
+7,8503004,Zürich Tiefenbrunnen,1,1,0,0
+8,8503006,Zürich Oerlikon,0,2,0,0
+9,8503007,Zürich Seebach,0,2,0,0
+10,8503008,Zürich Affoltern,0,2,0,0
+11,8503009,Zürich Wollishofen,0,1,0,0
+12,8503010,Zürich Enge,0,1,0,0
+13,8503011,Zürich Wiedikon,0,1,0,0
+14,8503015,Zürich Wipkingen,0,2,0,0
+15,8503016,Zürich Flughafen,0,2,0,0
+16,8503020,Zürich Hardbrücke,0,1,0,0
+17,8503100,Zollikon,1,1,0,0
+18,8503101,Küsnacht ZH,1,1,0,0
+19,8503107,Stäfa,1,1,0,0
+20,8503108,Uerikon,2,1,0,0
+21,8503109,Feldbach,3,1,0,0
+22,8503110,Rapperswil,3,1,0,0
+23,8503115,Schmerikon,2,1,0,0
+24,8503120,Jona,3,1,0,0
+25,8503121,Rüti ZH,3,1,0,0
+26,8503122,Bubikon,3,1,0,0
+27,8503126,Nänikon-Greifensee,1,1,0,0
+28,8503127,Schwerzenbach ZH,1,1,0,0
+29,8503128,Dübendorf,1,2,0,0
+30,8503129,Wallisellen,1,2,0,0
+31,8503130,Hinwil,2,1,0,0
+32,8503138,Wald,2,1,0,0
+33,8503139,Tann-Dürnten,3,1,0,0
+34,8503141,Küsnacht Goldbach,1,1,0,0
+35,8503147,Stettbach,1,2,0,0
+36,8503200,Kilchberg,0,1,0,0
+37,8503201,Rüschlikon,0,1,0,0
+38,8503207,Richterswil,1,1,0,0
+39,8503208,Bäch,2,1,0,0
+40,8503209,Pfäffikon SZ,2,1,0,0
+41,8503210,Freienbach SBB,2,1,0,0
+42,8503211,Altendorf,2,1,0,0
+43,8503220,Lachen,2,1,0,0
+44,8503221,Siebnen-Wangen,2,1,0,0
+45,8503303,Illnau,1,1,0,0
+46,8503304,Kemptthal,0,1,0,0
+47,8503305,Effretikon,1,1,0,0
+48,8503306,Dietlikon,1,2,0,0
+49,8503307,Bassersdorf,1,1,0,0
+50,8503308,Kloten,0,2,0,0
+51,8503310,Glattbrugg,0,2,0,0
+52,8503311,Rümlang,0,2,0,0
+53,8503312,Oberglatt,0,2,0,0
+54,8503340,Opfikon,0,2,0,0
+55,8503508,Dietikon,1,1,0,0
+56,8503509,Schlieren,0,1,0,0
+57,8503512,Glanzenberg,1,1,0,0
+58,8503526,Regensdorf-Watt,1,1,0,0

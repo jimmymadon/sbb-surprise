@@ -1,0 +1,70 @@
+,stop_id,stop_name,hiking,shopping,sightseeing,discovering
+0,8500010,Basel SBB,3,0,1,0
+1,8500016,Basel St. Johann,2,0,1,0
+2,8500020,Muttenz,2,0,1,0
+3,8500119,Münchenstein,3,0,1,0
+4,8500136,Basel Dreispitz,2,0,1,0
+5,8500203,Bettlach,0,0,1,0
+6,8500204,Selzach,1,0,1,0
+7,8500205,Bellach,1,0,1,0
+8,8500206,Solothurn West,1,0,1,0
+9,8500207,Solothurn,1,0,1,0
+10,8500208,Luterbach-Attisholz,1,0,1,0
+11,8500209,Deitingen,1,0,1,0
+12,8500210,Wangen an der Aare,0,0,1,0
+13,8501000,Zimeysa,1,0,2,0
+14,8501002,Russin,1,0,1,0
+15,8501003,Satigny,1,0,1,0
+16,8501006,Meyrin,2,0,2,0
+17,8501007,Vernier,2,0,2,0
+18,8501008,Genève,2,0,2,0
+19,8501012,Creux-de-Genthod,2,0,1,0
+20,8501020,Chambésy,2,0,1,0
+21,8501022,Versoix,2,0,1,0
+22,8501026,Genève-Aéroport,2,0,1,0
+23,8501045,Denges-Echandens,2,0,2,0
+24,8501047,Morges-St-Jean,1,0,1,0
+25,8501048,Lonay-Préverenges,2,0,2,0
+26,8501116,Vufflens-la-Ville,2,0,2,0
+27,8501117,Bussigny,2,0,2,0
+28,8501118,Renens VD,3,0,2,0
+29,8501120,Lausanne,3,0,2,0
+30,8501121,Pully,3,0,2,0
+31,8501122,Lutry,3,0,2,0
+32,8501123,Villette VD,3,0,2,0
+33,8501124,Cully,3,0,2,0
+34,8501125,Epesses,3,0,2,0
+35,8502004,Dagmersellen,3,0,1,0
+36,8502005,Nebikon,3,0,1,0
+37,8502006,Wauwil,3,0,1,0
+38,8502007,Sursee,4,0,1,0
+39,8502010,St. Erhard-Knutwil,3,0,1,0
+40,8502011,Oberkirch LU,4,0,1,0
+41,8504000,Pully-Nord,3,0,2,0
+42,8504003,Bossière,3,0,2,0
+43,8504010,La Conversion,3,0,2,0
+44,8504011,Grandvaux,3,0,2,0
+45,8504027,Neyruz,0,0,1,0
+46,8504028,Rosé,0,0,1,0
+47,8504029,Matran,1,0,1,0
+48,8504030,Villars-sur-Glâne,1,0,1,0
+49,8504100,Fribourg/Freiburg,1,0,1,0
+50,8504101,Düdingen,1,0,1,0
+51,8504104,Thörishaus Station,1,0,3,1
+52,8504105,Niederwangen,1,0,3,1
+53,8504106,Bern Bümpliz Süd,1,0,3,1
+54,8504108,Bern Europaplatz,1,0,3,1
+55,8504115,Thörishaus Dorf,1,0,3,1
+56,8504117,Oberwangen,1,0,3,1
+57,8504138,Grolley,1,0,1,0
+58,8504208,Boudry,1,0,1,0
+59,8504209,Colombier,1,0,1,0
+60,8504219,Auvernier,1,0,1,0
+61,8504220,Neuchâtel-Serrières,1,0,1,0
+62,8504221,Neuchâtel,3,0,1,0
+63,8504222,St-Blaise CFF,4,0,1,0
+64,8504223,Cornaux,4,0,1,0
+65,8504236,Les Geneveys-sur-Coffrane,2,0,1,0
+66,8504237,Les Hauts-Geneveys,2,0,1,0
+67,8504410,Zollikofen,1,0,3,1
+68,8504411,Münchenbuchsee,0,0,3,1

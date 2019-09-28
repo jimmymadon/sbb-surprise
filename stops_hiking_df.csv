@@ -1,0 +1,204 @@
+,stop_id,stop_name,hiking,shopping,sightseeing,discovering
+0,8014474,Waldshut,1,0,0,0
+1,8014558,Singen (Hohentwiel),1,0,0,0
+2,8014586,Konstanz,1,0,0,0
+3,8500010,Basel SBB,3,0,1,0
+4,8500016,Basel St. Johann,2,0,1,0
+5,8500020,Muttenz,2,0,1,0
+6,8500021,Pratteln,1,0,0,0
+7,8500022,Frenkendorf-Füllinsdorf,1,0,0,0
+8,8500023,Liestal,1,0,0,0
+9,8500024,Lausen,1,0,0,0
+10,8500025,Itingen,1,0,0,0
+11,8500026,Sissach,1,0,0,0
+12,8500027,Gelterkinden,1,0,0,0
+13,8500028,Tecknau,1,0,0,0
+14,8500035,Läufelfingen,2,0,0,0
+15,8500105,Moutier,1,0,0,0
+16,8500113,Laufen,1,0,0,0
+17,8500114,Zwingen,1,0,0,0
+18,8500115,Grellingen,1,0,0,0
+19,8500117,Aesch,2,0,0,0
+20,8500118,Dornach-Arlesheim,2,0,0,0
+21,8500119,Münchenstein,3,0,1,0
+22,8500121,Courfaivre,2,0,0,0
+23,8500122,Bassecourt,2,0,0,0
+24,8500123,Glovelier,2,0,0,0
+25,8500125,Courgenay,1,0,0,0
+26,8500126,Porrentruy,1,0,0,0
+27,8500136,Basel Dreispitz,2,0,1,0
+28,8500204,Selzach,1,0,1,0
+29,8500205,Bellach,1,0,1,0
+30,8500206,Solothurn West,1,0,1,0
+31,8500207,Solothurn,1,0,1,0
+32,8500208,Luterbach-Attisholz,1,0,1,0
+33,8500209,Deitingen,1,0,1,0
+34,8500214,Egerkingen,1,0,0,0
+35,8500215,Hägendorf,1,0,0,0
+36,8500216,Wangen bei Olten,1,0,0,0
+37,8500217,Olten Hammer,1,0,0,0
+38,8500218,Olten,1,0,0,0
+39,8500300,Kaiseraugst,1,0,0,0
+40,8500301,Rheinfelden,1,0,0,0
+41,8500302,Möhlin,2,0,0,0
+42,8500303,Mumpf,1,0,0,0
+43,8500304,Eiken,1,0,0,0
+44,8500305,Frick,1,0,0,0
+45,8500313,Rheinfelden Augarten,1,0,0,0
+46,8500320,Stein-Säckingen,1,0,0,0
+47,8500329,Koblenz,1,0,0,0
+48,8501000,Zimeysa,1,0,2,0
+49,8501001,La Plaine,1,0,0,0
+50,8501002,Russin,1,0,1,0
+51,8501003,Satigny,1,0,1,0
+52,8501006,Meyrin,2,0,2,0
+53,8501007,Vernier,2,0,2,0
+54,8501008,Genève,2,0,2,0
+55,8501012,Creux-de-Genthod,2,0,1,0
+56,8501014,Mies,1,0,0,0
+57,8501020,Chambésy,2,0,1,0
+58,8501022,Versoix,2,0,1,0
+59,8501023,Coppet,1,0,0,0
+60,8501026,Genève-Aéroport,2,0,1,0
+61,8501045,Denges-Echandens,2,0,2,0
+62,8501047,Morges-St-Jean,1,0,1,0
+63,8501048,Lonay-Préverenges,2,0,2,0
+64,8501106,Croy-Romainmôtier,1,0,0,0
+65,8501107,Arnex,1,0,0,0
+66,8501108,La Sarraz,1,0,0,0
+67,8501110,Ependes,2,0,0,0
+68,8501111,Essert-Pittet,1,0,0,0
+69,8501112,Chavornay,1,0,0,0
+70,8501113,Bavois,1,0,0,0
+71,8501114,Eclépens,1,0,0,0
+72,8501116,Vufflens-la-Ville,2,0,2,0
+73,8501117,Bussigny,2,0,2,0
+74,8501118,Renens VD,3,0,2,0
+75,8501120,Lausanne,3,0,2,0
+76,8501121,Pully,3,0,2,0
+77,8501122,Lutry,3,0,2,0
+78,8501123,Villette VD,3,0,2,0
+79,8501124,Cully,3,0,2,0
+80,8501125,Epesses,3,0,2,0
+81,8502000,Aarburg-Oftringen,1,0,0,0
+82,8502001,Zofingen,1,0,0,0
+83,8502002,Brittnau-Wikon,1,0,0,0
+84,8502003,Reiden,1,0,0,0
+85,8502004,Dagmersellen,3,0,1,0
+86,8502005,Nebikon,3,0,1,0
+87,8502006,Wauwil,3,0,1,0
+88,8502007,Sursee,4,0,1,0
+89,8502008,Nottwil,2,0,0,0
+90,8502009,Sempach-Neuenkirch,1,0,0,0
+91,8502010,St. Erhard-Knutwil,3,0,1,0
+92,8502011,Oberkirch LU,4,0,1,0
+93,8502022,Eschenbach,1,0,0,0
+94,8502023,Ballwil,1,0,0,0
+95,8502024,Hochdorf,1,0,0,0
+96,8502025,Baldegg,1,0,0,0
+97,8502027,Hitzkirch,1,0,0,0
+98,8502034,Beinwil am See,1,0,0,0
+99,8502100,Safenwil,1,0,0,0
+100,8502110,Dulliken,1,0,0,0
+101,8502111,Däniken,1,0,0,0
+102,8502112,Schönenwerd SO,1,0,0,0
+103,8503004,Zürich Tiefenbrunnen,1,1,0,0
+104,8503100,Zollikon,1,1,0,0
+105,8503101,Küsnacht ZH,1,1,0,0
+106,8503102,Erlenbach ZH,1,0,0,0
+107,8503105,Uetikon,1,0,0,0
+108,8503107,Stäfa,1,1,0,0
+109,8503108,Uerikon,2,1,0,0
+110,8503109,Feldbach,3,1,0,0
+111,8503110,Rapperswil,3,1,0,0
+112,8503111,Winkel am Zürichsee,1,0,0,0
+113,8503115,Schmerikon,2,1,0,0
+114,8503116,Uznach,1,0,0,0
+115,8503120,Jona,3,1,0,0
+116,8503121,Rüti ZH,3,1,0,0
+117,8503122,Bubikon,3,1,0,0
+118,8503123,Wetzikon,2,0,0,0
+119,8503124,Aathal,1,0,0,0
+120,8503125,Uster,1,0,0,0
+121,8503126,Nänikon-Greifensee,1,1,0,0
+122,8503127,Schwerzenbach ZH,1,1,0,0
+123,8503128,Dübendorf,1,2,0,0
+124,8503129,Wallisellen,1,2,0,0
+125,8503130,Hinwil,2,1,0,0
+126,8503134,Bauma,1,0,0,0
+127,8503136,Fischenthal,1,0,0,0
+128,8503138,Wald,2,1,0,0
+129,8503139,Tann-Dürnten,3,1,0,0
+130,8503141,Küsnacht Goldbach,1,1,0,0
+131,8503147,Stettbach,1,2,0,0
+132,8503206,Wädenswil,1,0,0,0
+133,8503207,Richterswil,1,1,0,0
+134,8503208,Bäch,2,1,0,0
+135,8503209,Pfäffikon SZ,2,1,0,0
+136,8503210,Freienbach SBB,2,1,0,0
+137,8503211,Altendorf,2,1,0,0
+138,8503220,Lachen,2,1,0,0
+139,8503221,Siebnen-Wangen,2,1,0,0
+140,8503222,Schübelbach-Buttikon,1,0,0,0
+141,8503301,Pfäffikon ZH,1,0,0,0
+142,8503302,Fehraltorf,1,0,0,0
+143,8503303,Illnau,1,1,0,0
+144,8503305,Effretikon,1,1,0,0
+145,8503306,Dietlikon,1,2,0,0
+146,8503307,Bassersdorf,1,1,0,0
+147,8503315,Dielsdorf,1,0,0,0
+148,8503409,Bad Zurzach,1,0,0,0
+149,8503501,Döttingen,1,0,0,0
+150,8503503,Turgi,1,0,0,0
+151,8503504,Baden,1,0,0,0
+152,8503505,Wettingen,1,0,0,0
+153,8503506,Killwangen-Spreitenbach,1,0,0,0
+154,8503508,Dietikon,1,1,0,0
+155,8503511,Neuenhof,1,0,0,0
+156,8503512,Glanzenberg,1,1,0,0
+157,8503526,Regensdorf-Watt,1,1,0,0
+158,8503528,Otelfingen,1,0,0,0
+159,8503529,Würenlos,1,0,0,0
+160,8504000,Pully-Nord,3,0,2,0
+161,8504003,Bossière,3,0,2,0
+162,8504007,Moreillon,1,0,0,0
+163,8504010,La Conversion,3,0,2,0
+164,8504011,Grandvaux,3,0,2,0
+165,8504029,Matran,1,0,1,0
+166,8504030,Villars-sur-Glâne,1,0,1,0
+167,8504100,Fribourg/Freiburg,1,0,1,0
+168,8504101,Düdingen,1,0,1,0
+169,8504102,Schmitten,1,0,0,0
+170,8504103,Flamatt,1,0,0,0
+171,8504104,Thörishaus Station,1,0,3,1
+172,8504105,Niederwangen,1,0,3,1
+173,8504106,Bern Bümpliz Süd,1,0,3,1
+174,8504108,Bern Europaplatz,1,0,3,1
+175,8504113,Wünnewil,1,0,0,0
+176,8504115,Thörishaus Dorf,1,0,3,1
+177,8504117,Oberwangen,1,0,3,1
+178,8504128,Murten/Morat,7,0,0,0
+179,8504129,Galmiz,6,0,0,0
+180,8504130,Yvonand,1,0,0,0
+181,8504131,Cheyres,1,0,0,0
+182,8504138,Grolley,1,0,1,0
+183,8504200,Yverdon-les-Bains,2,0,0,0
+184,8504201,Grandson,1,0,0,0
+185,8504203,Concise,1,0,0,0
+186,8504208,Boudry,1,0,1,0
+187,8504209,Colombier,1,0,1,0
+188,8504219,Auvernier,1,0,1,0
+189,8504220,Neuchâtel-Serrières,1,0,1,0
+190,8504221,Neuchâtel,3,0,1,0
+191,8504222,St-Blaise CFF,4,0,1,0
+192,8504223,Cornaux,4,0,1,0
+193,8504224,Cressier NE,3,0,0,0
+194,8504225,Le Landeron,3,0,0,0
+195,8504226,La Neuveville,2,0,0,0
+196,8504236,Les Geneveys-sur-Coffrane,2,0,1,0
+197,8504237,Les Hauts-Geneveys,2,0,1,0
+198,8504302,Reuchenette-Péry,1,0,0,0
+199,8504314,La Chaux-de-Fonds,2,0,0,0
+200,8504316,Le Locle,2,0,0,0
+201,8504400,Kerzers,4,0,0,0
+202,8504410,Zollikofen,1,0,3,1
