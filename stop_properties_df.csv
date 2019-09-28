@@ -1,0 +1,573 @@
+,stop_id,stop_name,hiking,relaxing,sightseeing,discovering
+0,8014474,Waldshut,1,0,0,0
+1,8014558,Singen (Hohentwiel),1,0,0,0
+2,8014586,Konstanz,1,0,0,0
+3,8500010,Basel SBB,3,0,1,0
+4,8500016,Basel St. Johann,2,0,1,0
+5,8500020,Muttenz,2,0,1,0
+6,8500021,Pratteln,1,0,0,0
+7,8500022,Frenkendorf-Füllinsdorf,1,0,0,0
+8,8500023,Liestal,1,0,0,0
+9,8500024,Lausen,1,0,0,0
+10,8500025,Itingen,1,0,0,0
+11,8500026,Sissach,1,0,0,0
+12,8500027,Gelterkinden,1,0,0,0
+13,8500028,Tecknau,1,0,0,0
+14,8500035,Läufelfingen,2,0,0,0
+15,8500105,Moutier,1,0,0,0
+16,8500109,Delémont,0,0,0,0
+17,8500113,Laufen,1,0,0,0
+18,8500114,Zwingen,1,0,0,0
+19,8500115,Grellingen,1,0,0,0
+20,8500117,Aesch,2,0,0,0
+21,8500118,Dornach-Arlesheim,2,0,0,0
+22,8500119,Münchenstein,3,0,1,0
+23,8500121,Courfaivre,2,0,0,0
+24,8500122,Bassecourt,2,0,0,0
+25,8500123,Glovelier,2,0,0,0
+26,8500125,Courgenay,1,0,0,0
+27,8500126,Porrentruy,1,0,0,0
+28,8500127,Courtemaîche,0,0,0,0
+29,8500128,Boncourt,0,0,0,0
+30,8500136,Basel Dreispitz,2,0,1,0
+31,8500200,Pieterlen,0,0,0,0
+32,8500201,Lengnau,0,0,0,0
+33,8500202,Grenchen Süd,0,0,0,0
+34,8500203,Bettlach,0,0,1,0
+35,8500204,Selzach,1,0,1,0
+36,8500205,Bellach,1,0,1,0
+37,8500206,Solothurn West,1,0,1,0
+38,8500207,Solothurn,1,0,1,0
+39,8500208,Luterbach-Attisholz,1,0,1,0
+40,8500209,Deitingen,1,0,1,0
+41,8500210,Wangen an der Aare,0,0,1,0
+42,8500211,Niederbipp,0,0,0,0
+43,8500212,Oensingen,0,0,0,0
+44,8500213,Oberbuchsiten,0,0,0,0
+45,8500214,Egerkingen,1,0,0,0
+46,8500215,Hägendorf,1,0,0,0
+47,8500216,Wangen bei Olten,1,0,0,0
+48,8500217,Olten Hammer,1,0,0,0
+49,8500218,Olten,1,0,0,0
+50,8500300,Kaiseraugst,1,0,0,0
+51,8500301,Rheinfelden,1,0,0,0
+52,8500302,Möhlin,2,0,0,0
+53,8500303,Mumpf,1,0,0,0
+54,8500304,Eiken,1,0,0,0
+55,8500305,Frick,1,0,0,0
+56,8500309,Brugg AG,0,0,0,0
+57,8500313,Rheinfelden Augarten,1,0,0,0
+58,8500320,Stein-Säckingen,1,0,0,0
+59,8500329,Koblenz,1,0,0,0
+60,8501000,Zimeysa,1,0,2,0
+61,8501001,La Plaine,1,0,0,0
+62,8501002,Russin,1,0,1,0
+63,8501003,Satigny,1,0,1,0
+64,8501006,Meyrin,2,0,2,0
+65,8501007,Vernier,2,0,2,0
+66,8501008,Genève,2,0,2,0
+67,8501012,Creux-de-Genthod,2,0,1,0
+68,8501014,Mies,1,0,0,0
+69,8501020,Chambésy,2,0,1,0
+70,8501022,Versoix,2,0,1,0
+71,8501023,Coppet,1,0,0,0
+72,8501026,Genève-Aéroport,2,0,1,0
+73,8501030,Nyon,0,0,0,0
+74,8501031,Gland,0,0,0,0
+75,8501033,Rolle,0,0,0,0
+76,8501035,Allaman,0,0,0,0
+77,8501036,St-Prex,0,0,0,0
+78,8501037,Morges,0,0,0,0
+79,8501042,Etoy,0,0,0,0
+80,8501045,Denges-Echandens,2,0,2,0
+81,8501047,Morges-St-Jean,1,0,1,0
+82,8501048,Lonay-Préverenges,2,0,2,0
+83,8501103,Vallorbe,0,0,0,0
+84,8501104,Le Day,0,0,0,0
+85,8501105,Bretonnières,0,0,0,0
+86,8501106,Croy-Romainmôtier,1,0,0,0
+87,8501107,Arnex,1,0,0,0
+88,8501108,La Sarraz,1,0,0,0
+89,8501110,Ependes,2,0,0,0
+90,8501111,Essert-Pittet,1,0,0,0
+91,8501112,Chavornay,1,0,0,0
+92,8501113,Bavois,1,0,0,0
+93,8501114,Eclépens,1,0,0,0
+94,8501115,Cossonay-Penthalaz,0,0,0,0
+95,8501116,Vufflens-la-Ville,2,0,2,0
+96,8501117,Bussigny,2,0,2,0
+97,8501118,Renens VD,3,0,2,0
+98,8501120,Lausanne,3,0,2,0
+99,8501121,Pully,3,0,2,0
+100,8501122,Lutry,3,0,2,0
+101,8501123,Villette VD,3,0,2,0
+102,8501124,Cully,3,0,2,0
+103,8501125,Epesses,3,0,2,0
+104,8501126,Rivaz,0,0,0,0
+105,8501127,St-Saphorin,0,0,0,0
+106,8501200,Vevey,0,0,0,0
+107,8501201,La Tour-de-Peilz,0,0,0,0
+108,8501202,Burier,0,0,0,0
+109,8501203,Clarens,0,0,0,0
+110,8501300,Montreux,0,0,0,0
+111,8501301,Territet,0,0,0,0
+112,8501302,Veytaux-Chillon,0,0,0,0
+113,8501303,Villeneuve,0,0,0,0
+114,8501304,Roche VD,0,0,0,0
+115,8501400,Aigle,0,0,0,0
+116,8501402,Bex,0,0,0,0
+117,8501403,St-Maurice,0,0,0,0
+118,8501404,Evionnaz,0,0,0,0
+119,8501405,Vernayaz,0,0,0,0
+120,8501426,Bouveret,0,0,0,0
+121,8501500,Martigny,0,0,0,0
+122,8501501,Charrat-Fully,0,0,0,0
+123,8501502,Saxon,0,0,0,0
+124,8501503,Riddes,0,0,0,0
+125,8501505,Ardon,0,0,0,0
+126,8501506,Sion,0,0,0,0
+127,8501507,St-Léonard,0,0,0,0
+128,8501509,Sierre/Siders,0,0,0,0
+129,8501510,Châteauneuf-Conthey,0,0,0,0
+130,8501600,Salgesch,0,0,0,0
+131,8501601,Leuk,0,0,0,0
+132,8501602,Turtmann,0,0,0,0
+133,8501603,Gampel-Steg,0,0,0,0
+134,8501604,Raron,0,0,0,0
+135,8501605,Visp,0,0,0,0
+136,8501609,Brig,0,0,0,0
+137,8502000,Aarburg-Oftringen,1,0,0,0
+138,8502001,Zofingen,1,0,0,0
+139,8502002,Brittnau-Wikon,1,0,0,0
+140,8502003,Reiden,1,0,0,0
+141,8502004,Dagmersellen,3,0,1,0
+142,8502005,Nebikon,3,0,1,0
+143,8502006,Wauwil,3,0,1,0
+144,8502007,Sursee,4,0,1,0
+145,8502008,Nottwil,2,0,0,0
+146,8502009,Sempach-Neuenkirch,1,0,0,0
+147,8502010,St. Erhard-Knutwil,3,0,1,0
+148,8502011,Oberkirch LU,4,0,1,0
+149,8502012,Rothenburg Dorf,0,0,0,0
+150,8502017,Waldibrücke,0,0,0,0
+151,8502020,Rothenburg,0,0,0,0
+152,8502021,Emmenbrücke,0,0,0,0
+153,8502022,Eschenbach,1,0,0,0
+154,8502023,Ballwil,1,0,0,0
+155,8502024,Hochdorf,1,0,0,0
+156,8502025,Baldegg,1,0,0,0
+157,8502027,Hitzkirch,1,0,0,0
+158,8502028,Emmenbrücke Gersag,0,0,0,0
+159,8502030,Seon,0,0,0,0
+160,8502033,Birrwil,0,0,0,0
+161,8502034,Beinwil am See,1,0,0,0
+162,8502100,Safenwil,1,0,0,0
+163,8502103,Suhr,0,0,0,0
+164,8502104,Hunzenschwil,0,0,0,0
+165,8502105,Othmarsingen,0,0,0,0
+166,8502106,Mägenwil,0,0,0,0
+167,8502110,Dulliken,1,0,0,0
+168,8502111,Däniken,1,0,0,0
+169,8502112,Schönenwerd SO,1,0,0,0
+170,8502113,Aarau,0,0,0,0
+171,8502114,Rupperswil,0,0,0,0
+172,8502115,Wildegg,0,0,0,0
+173,8502116,Schinznach Bad,0,0,0,0
+174,8502119,Lenzburg,0,0,0,0
+175,8502128,Holderbank AG,0,0,0,0
+176,8502200,Ebikon,0,0,0,0
+177,8502201,Gisikon-Root,0,0,0,0
+178,8502202,Rotkreuz,0,0,0,0
+179,8502203,Cham,0,0,0,0
+180,8502204,Zug,0,0,0,0
+181,8502205,Walchwil,0,0,0,0
+182,8502206,Baar,0,0,0,0
+183,8502208,Horgen Oberdorf,0,0,0,0
+184,8502209,Oberrieden Dorf,0,0,0,0
+185,8502211,Hendschiken,0,0,0,0
+186,8502212,Dottikon-Dintikon,0,0,0,0
+187,8502213,Wohlen AG,0,0,0,0
+188,8502214,Boswil-Bünzen,0,0,0,0
+189,8502215,Muri AG,0,0,0,0
+190,8502216,Benzenschwil,0,0,0,0
+191,8502217,Mühlau,0,0,0,0
+192,8502218,Sins,0,0,0,0
+193,8502219,Oberrüti,0,0,0,0
+194,8502220,Urdorf,0,0,0,0
+195,8502221,Birmensdorf ZH,0,0,0,0
+196,8502222,Bonstetten-Wettswil,0,0,0,0
+197,8502223,Hedingen,0,0,0,0
+198,8502224,Affoltern am Albis,0,0,0,0
+199,8502226,Knonau,0,0,0,0
+200,8502227,Steinhausen,0,0,0,0
+201,8502229,Urdorf Weihermatt,0,0,0,0
+202,8502230,Zug Chollermüli,0,0,0,0
+203,8502231,Zug Oberwil,0,0,0,0
+204,8502237,Lupfig,0,0,0,0
+205,8502247,Birr,0,0,0,0
+206,8502306,Hünenberg Chämleten,0,0,0,0
+207,8503000,Zürich HB,0,0,0,0
+208,8503001,Zürich Altstetten,0,0,0,0
+209,8503003,Zürich Stadelhofen,0,0,0,0
+210,8503004,Zürich Tiefenbrunnen,1,0,0,0
+211,8503006,Zürich Oerlikon,0,0,0,0
+212,8503007,Zürich Seebach,0,0,0,0
+213,8503008,Zürich Affoltern,0,0,0,0
+214,8503009,Zürich Wollishofen,0,0,0,0
+215,8503010,Zürich Enge,0,0,0,0
+216,8503011,Zürich Wiedikon,0,0,0,0
+217,8503015,Zürich Wipkingen,0,0,0,0
+218,8503016,Zürich Flughafen,0,0,0,0
+219,8503020,Zürich Hardbrücke,0,0,0,0
+220,8503100,Zollikon,1,0,0,0
+221,8503101,Küsnacht ZH,1,0,0,0
+222,8503102,Erlenbach ZH,1,0,0,0
+223,8503103,Herrliberg-Feldmeilen,0,0,0,0
+224,8503104,Meilen,0,0,0,0
+225,8503105,Uetikon,1,0,0,0
+226,8503107,Stäfa,1,0,0,0
+227,8503108,Uerikon,2,0,0,0
+228,8503109,Feldbach,3,0,0,0
+229,8503110,Rapperswil,3,0,0,0
+230,8503111,Winkel am Zürichsee,1,0,0,0
+231,8503115,Schmerikon,2,0,0,0
+232,8503116,Uznach,1,0,0,0
+233,8503120,Jona,3,0,0,0
+234,8503121,Rüti ZH,3,0,0,0
+235,8503122,Bubikon,3,0,0,0
+236,8503123,Wetzikon,2,0,0,0
+237,8503124,Aathal,1,0,0,0
+238,8503125,Uster,1,0,0,0
+239,8503126,Nänikon-Greifensee,1,0,0,0
+240,8503127,Schwerzenbach ZH,1,0,0,0
+241,8503128,Dübendorf,1,0,0,0
+242,8503129,Wallisellen,1,0,0,0
+243,8503130,Hinwil,2,0,0,0
+244,8503134,Bauma,1,0,0,0
+245,8503136,Fischenthal,1,0,0,0
+246,8503138,Wald,2,0,0,0
+247,8503139,Tann-Dürnten,3,0,0,0
+248,8503141,Küsnacht Goldbach,1,0,0,0
+249,8503147,Stettbach,1,0,0,0
+250,8503200,Kilchberg,0,0,0,0
+251,8503201,Rüschlikon,0,0,0,0
+252,8503202,Thalwil,0,0,0,0
+253,8503203,Oberrieden,0,0,0,0
+254,8503204,Horgen,0,0,0,0
+255,8503205,Au ZH,0,0,0,0
+256,8503206,Wädenswil,1,0,0,0
+257,8503207,Richterswil,1,0,0,0
+258,8503208,Bäch,2,0,0,0
+259,8503209,Pfäffikon SZ,2,0,0,0
+260,8503210,Freienbach SBB,2,0,0,0
+261,8503211,Altendorf,2,0,0,0
+262,8503220,Lachen,2,0,0,0
+263,8503221,Siebnen-Wangen,2,0,0,0
+264,8503222,Schübelbach-Buttikon,1,0,0,0
+265,8503223,Reichenburg,0,0,0,0
+266,8503224,Bilten,0,0,0,0
+267,8503225,Ziegelbrücke,0,0,0,0
+268,8503228,Netstal,0,0,0,0
+269,8503230,Glarus,0,0,0,0
+270,8503231,Ennenda,0,0,0,0
+271,8503233,Schwanden GL,0,0,0,0
+272,8503239,Linthal,0,0,0,0
+273,8503301,Pfäffikon ZH,1,0,0,0
+274,8503302,Fehraltorf,1,0,0,0
+275,8503303,Illnau,1,0,0,0
+276,8503304,Kemptthal,0,0,0,0
+277,8503305,Effretikon,1,0,0,0
+278,8503306,Dietlikon,1,0,0,0
+279,8503307,Bassersdorf,1,0,0,0
+280,8503308,Kloten,0,0,0,0
+281,8503310,Glattbrugg,0,0,0,0
+282,8503311,Rümlang,0,0,0,0
+283,8503312,Oberglatt,0,0,0,0
+284,8503313,Niederglatt,0,0,0,0
+285,8503315,Dielsdorf,1,0,0,0
+286,8503340,Opfikon,0,0,0,0
+287,8503400,Bülach,0,0,0,0
+288,8503401,Glattfelden,0,0,0,0
+289,8503402,Eglisau,0,0,0,0
+290,8503403,Hüntwangen-Wil,0,0,0,0
+291,8503404,Rafz,0,0,0,0
+292,8503408,Rekingen AG,0,0,0,0
+293,8503409,Bad Zurzach,1,0,0,0
+294,8503421,Jestetten,0,0,0,0
+295,8503423,Neuhausen,0,0,0,0
+296,8503424,Schaffhausen,0,0,0,0
+297,8503428,Diessenhofen,0,0,0,0
+298,8503501,Döttingen,1,0,0,0
+299,8503502,Siggenthal-Würenlingen,0,0,0,0
+300,8503503,Turgi,1,0,0,0
+301,8503504,Baden,1,0,0,0
+302,8503505,Wettingen,1,0,0,0
+303,8503506,Killwangen-Spreitenbach,1,0,0,0
+304,8503508,Dietikon,1,0,0,0
+305,8503509,Schlieren,0,0,0,0
+306,8503511,Neuenhof,1,0,0,0
+307,8503512,Glanzenberg,1,0,0,0
+308,8503526,Regensdorf-Watt,1,0,0,0
+309,8503528,Otelfingen,1,0,0,0
+310,8503529,Würenlos,1,0,0,0
+311,8504000,Pully-Nord,3,0,2,0
+312,8504003,Bossière,3,0,2,0
+313,8504007,Moreillon,1,0,0,0
+314,8504010,La Conversion,3,0,2,0
+315,8504011,Grandvaux,3,0,2,0
+316,8504014,Palézieux,0,0,0,0
+317,8504015,Vevey-Funi,0,0,0,0
+318,8504018,Ecublens-Rue,0,0,0,0
+319,8504020,Oron,0,0,0,0
+320,8504021,Vauderens,0,0,0,0
+321,8504023,Romont,0,0,0,0
+322,8504024,Villaz-St-Pierre,0,0,0,0
+323,8504025,Chénens,0,0,0,0
+324,8504026,Cottens,0,0,0,0
+325,8504027,Neyruz,0,0,1,0
+326,8504028,Rosé,0,0,1,0
+327,8504029,Matran,1,0,1,0
+328,8504030,Villars-sur-Glâne,1,0,1,0
+329,8504040,Corseaux-Cornalles,0,0,0,0
+330,8504100,Fribourg/Freiburg,1,0,1,0
+331,8504101,Düdingen,1,0,1,0
+332,8504102,Schmitten,1,0,0,0
+333,8504103,Flamatt,1,0,0,0
+334,8504104,Thörishaus Station,1,0,3,1
+335,8504105,Niederwangen,1,0,3,1
+336,8504106,Bern Bümpliz Süd,1,0,3,1
+337,8504108,Bern Europaplatz,1,0,3,1
+338,8504113,Wünnewil,1,0,0,0
+339,8504115,Thörishaus Dorf,1,0,3,1
+340,8504117,Oberwangen,1,0,3,1
+341,8504120,Moudon,0,0,0,0
+342,8504121,Lucens,0,0,0,0
+343,8504122,Granges-Marnand,0,0,0,0
+344,8504128,Murten/Morat,7,0,0,0
+345,8504129,Galmiz,6,0,0,0
+346,8504130,Yvonand,1,0,0,0
+347,8504131,Cheyres,1,0,0,0
+348,8504132,Estavayer-le-Lac,0,0,0,0
+349,8504134,Payerne,0,0,0,0
+350,8504138,Grolley,1,0,1,0
+351,8504141,Henniez,0,0,0,0
+352,8504200,Yverdon-les-Bains,2,0,0,0
+353,8504201,Grandson,1,0,0,0
+354,8504203,Concise,1,0,0,0
+355,8504205,Gorgier-St-Aubin,0,0,0,0
+356,8504206,Bevaix,0,0,0,0
+357,8504208,Boudry,1,0,1,0
+358,8504209,Colombier,1,0,1,0
+359,8504215,Travers,0,0,0,0
+360,8504217,Champ-du-Moulin,0,0,0,0
+361,8504219,Auvernier,1,0,1,0
+362,8504220,Neuchâtel-Serrières,1,0,1,0
+363,8504221,Neuchâtel,3,0,1,0
+364,8504222,St-Blaise CFF,4,0,1,0
+365,8504223,Cornaux,4,0,1,0
+366,8504224,Cressier NE,3,0,0,0
+367,8504225,Le Landeron,3,0,0,0
+368,8504226,La Neuveville,2,0,0,0
+369,8504228,Twann,0,0,0,0
+370,8504229,Tüscherz,0,0,0,0
+371,8504236,Les Geneveys-sur-Coffrane,2,0,1,0
+372,8504237,Les Hauts-Geneveys,2,0,1,0
+373,8504300,Biel/Bienne,0,0,0,0
+374,8504302,Reuchenette-Péry,1,0,0,0
+375,8504304,Sonceboz-Sombeval,0,0,0,0
+376,8504307,Courtelary,0,0,0,0
+377,8504310,St-Imier,0,0,0,0
+378,8504312,Renan BE,0,0,0,0
+379,8504314,La Chaux-de-Fonds,2,0,0,0
+380,8504316,Le Locle,2,0,0,0
+381,8504400,Kerzers,4,0,0,0
+382,8504410,Zollikofen,1,0,3,1
+383,8504411,Münchenbuchsee,0,0,3,1
+384,8504412,Schüpfen,0,0,0,0
+385,8504413,Suberg-Grossaffoltern,0,0,0,0
+386,8504414,Lyss,0,0,0,0
+387,8504415,Busswil,0,0,0,0
+388,8504416,Brügg BE,0,0,0,0
+389,8504419,Biel Mett,0,0,0,0
+390,8504441,Studen BE,0,0,0,0
+391,8505000,Luzern,0,0,0,0
+392,8505001,Meggen,0,0,0,0
+393,8505002,Küssnacht am Rigi,0,0,0,0
+394,8505003,Immensee,0,0,0,0
+395,8505004,Arth-Goldau,0,0,0,0
+396,8505005,Steinen,0,0,0,0
+397,8505006,Schwyz,0,0,0,0
+398,8505007,Brunnen,0,0,0,0
+399,8505111,Sisikon,0,0,0,0
+400,8505112,Flüelen,0,0,0,0
+401,8505113,Altdorf,0,0,0,0
+402,8505114,Erstfeld,0,0,0,0
+403,8505119,Göschenen,0,0,0,0
+404,8505201,Airolo,0,0,0,0
+405,8505202,Ambrì-Piotta,0,0,0,0
+406,8505204,Faido,0,0,0,0
+407,8505205,Lavorgo,0,0,0,0
+408,8505207,Bodio TI,0,0,0,0
+409,8505209,Biasca,0,0,0,0
+410,8505212,Castione-Arbedo,0,0,0,0
+411,8505213,Bellinzona,0,0,0,0
+412,8505214,Giubiasco,0,0,0,0
+413,8505216,Rivera-Bironico,0,0,0,0
+414,8505217,Mezzovico,0,0,0,0
+415,8505218,Taverne-Torricella,1,0,0,0
+416,8505219,Lamone-Cadempino,1,0,0,0
+417,8505300,Lugano,1,0,0,0
+418,8505301,Lugano-Paradiso,1,0,0,0
+419,8505302,Melide,1,0,0,0
+420,8505303,Maroggia-Melano,1,0,0,0
+421,8505304,Capolago-Riva S. Vitale,1,0,0,0
+422,8505305,Mendrisio,0,0,0,0
+423,8505306,Balerna,1,0,0,0
+424,8505307,Chiasso,1,0,0,0
+425,8505400,Locarno,0,0,0,0
+426,8505401,Tenero,0,0,0,0
+427,8505402,Gordola,0,0,0,0
+428,8505404,Cadenazzo,0,0,0,0
+429,8505408,Ranzo-S. Abbondio,0,0,0,0
+430,8505410,Gerra (Gambarogno),0,0,0,0
+431,8505412,Riazzino,0,0,0,0
+432,8505415,S. Antonino,0,0,0,0
+433,8506000,Winterthur,0,0,0,0
+434,8506001,Winterthur Grüze,0,0,0,0
+435,8506002,Winterthur Seen,0,0,0,0
+436,8506003,Sennhof-Kyburg,0,0,0,0
+437,8506005,Rikon,0,0,0,0
+438,8506008,Wila,0,0,0,0
+439,8506009,Saland,0,0,0,0
+440,8506010,Sirnach,0,0,0,0
+441,8506011,Eschlikon,0,0,0,0
+442,8506012,Guntershausen,0,0,0,0
+443,8506013,Aadorf,0,0,0,0
+444,8506014,Elgg,0,0,0,0
+445,8506015,Räterschen,0,0,0,0
+446,8506016,Oberwinterthur,0,0,0,0
+447,8506017,Wiesendangen,0,0,0,0
+448,8506018,Rickenbach-Attikon,0,0,0,0
+449,8506019,Islikon,0,0,0,0
+450,8506020,Seuzach,0,0,0,0
+451,8506022,Thalheim-Altikon,0,0,0,0
+452,8506024,Stammheim,0,0,0,0
+453,8506025,Etzwilen,0,0,0,0
+454,8506035,Schottikon,0,0,0,0
+455,8506041,Embrach-Rorbas,0,0,0,0
+456,8506042,Pfungen,0,0,0,0
+457,8506043,Winterthur Wülflingen,0,0,0,0
+458,8506044,Winterthur Töss,0,0,0,0
+459,8506045,Hettlingen,0,0,0,0
+460,8506046,Henggart,0,0,0,0
+461,8506047,Andelfingen,0,0,0,0
+462,8506048,Marthalen,0,0,0,0
+463,8506049,Dachsen,0,0,0,0
+464,8506100,Frauenfeld,0,0,0,0
+465,8506101,Felben-Wellhausen,0,0,0,0
+466,8506102,Hüttlingen-Mettendorf,0,0,0,0
+467,8506103,Müllheim-Wigoltingen,0,0,0,0
+468,8506104,Märstetten,0,0,0,0
+469,8506105,Weinfelden,0,0,0,0
+470,8506106,Bürglen,0,0,0,0
+471,8506107,Erlen,0,0,0,0
+472,8506108,Oberaach,0,0,0,0
+473,8506109,Amriswil,0,0,0,0
+474,8506121,Romanshorn,0,0,0,0
+475,8506125,Altnau,0,0,0,0
+476,8506128,Kreuzlingen Hafen,1,0,0,0
+477,8506131,Kreuzlingen,1,0,0,0
+478,8506132,Tägerwilen-Gottlieben,1,0,0,0
+479,8506135,Berlingen,2,0,0,0
+480,8506139,Stein am Rhein,1,0,0,0
+481,8506203,Bütschwil,0,0,0,0
+482,8506206,Wil SG,0,0,0,0
+483,8506208,Uzwil,0,0,0,0
+484,8506209,Flawil,0,0,0,0
+485,8506210,Gossau SG,0,0,0,0
+486,8506212,Hauptwil,0,0,0,0
+487,8506213,Bischofszell Stadt,0,0,0,0
+488,8506216,Kradolf,0,0,0,0
+489,8506217,Sulgen,0,0,0,0
+490,8506300,St. Gallen Winkeln,0,0,0,0
+491,8506301,St. Gallen Bruggen,0,0,0,0
+492,8506302,St. Gallen,0,0,0,0
+493,8506303,St. Gallen St. Fiden,0,0,0,0
+494,8506304,Mörschwil,0,0,0,0
+495,8506305,Goldach,0,0,0,0
+496,8506306,Rorschach Hafen,1,0,0,0
+497,8506307,Horn,0,0,0,0
+498,8506311,Rorschach,1,0,0,0
+499,8506312,Staad,1,0,0,0
+500,8506313,Rheineck,1,0,0,0
+501,8506314,St. Margrethen,1,0,1,1
+502,8506316,Au SG,1,0,0,0
+503,8506317,Heerbrugg,1,0,0,0
+504,8506318,Rebstein-Marbach,1,0,0,0
+505,8506319,Altstätten SG,1,0,0,0
+506,8506322,Rorschach Stadt,1,0,0,0
+507,8507000,Bern,1,0,3,1
+508,8507002,Ostermundigen,1,0,3,1
+509,8507003,Gümligen,1,0,3,1
+510,8507005,Rubigen,1,0,3,1
+511,8507006,Münsingen,0,0,0,0
+512,8507007,Wichtrach,0,0,0,0
+513,8507008,Kiesen,0,0,0,0
+514,8507009,Uttigen,0,0,0,0
+515,8507100,Thun,0,0,0,0
+516,8508001,Schönbühl SBB,0,0,3,1
+517,8508003,Hindelbank,0,0,0,0
+518,8508004,Lyssach,0,0,0,0
+519,8508005,Burgdorf,0,0,0,0
+520,8508006,Wynigen,0,0,0,0
+521,8508008,Herzogenbuchsee,0,0,0,0
+522,8508100,Langenthal,0,0,0,0
+523,8508101,Roggwil-Wynau,0,0,0,0
+524,8508102,Murgenthal,1,0,0,0
+525,8508103,Rothrist,1,0,0,0
+526,8508201,Tägertschi,0,0,0,0
+527,8508202,Konolfingen,0,0,0,0
+528,8508203,Zäziwil,0,0,0,0
+529,8508205,Signau,0,0,0,0
+530,8508207,Langnau i.E.,0,0,0,0
+531,8508208,Trubschachen,0,0,0,0
+532,8508211,Schüpfheim,0,0,0,0
+533,8508215,Wolhusen,0,0,0,0
+534,8508217,Schachen LU,0,0,0,0
+535,8508218,Malters,0,0,0,0
+536,8508219,Littau,0,0,0,0
+537,8509000,Chur,0,0,0,0
+538,8509002,Landquart,0,0,0,0
+539,8509003,Maienfeld,0,0,0,0
+540,8509004,Bad Ragaz,0,0,0,0
+541,8509400,Oberriet,0,0,0,0
+542,8509404,Buchs SG,0,0,0,0
+543,8509406,Sevelen,0,0,0,0
+544,8509411,Sargans,0,0,0,0
+545,8509412,Mels,0,0,0,0
+546,8509413,Flums,0,0,0,0
+547,8509414,Walenstadt,0,0,0,0
+548,8509415,Mols,0,0,0,0
+549,8509416,Unterterzen,0,0,0,0
+550,8509417,Murg,0,0,0,0
+551,8509418,Mühlehorn,0,0,0,0
+552,8515992,Baar Neufeld,0,0,0,0
+553,8515993,Baar Lindenpark,0,0,0,0
+554,8515995,Cham Alpenblick,0,0,0,0
+555,8515996,Hünenberg Zythus,0,0,0,0
+556,8515997,Root D4,0,0,0,0
+557,8516155,Lancy-Pont-Rouge,2,0,2,0
+558,8516161,Bern Wankdorf,1,0,3,1
+559,8516187,Zug Schutzengel,0,0,0,0
+560,8516218,Winterthur Hegi,0,0,0,0
+561,8516219,Mellingen Heitersberg,1,0,0,0
+562,8516350,Buchrain,0,0,0,0
+563,8517131,Pratteln Salina Raurica,1,0,0,0
+564,8517336,Luzern Verkehrshaus,0,0,0,0
+565,8517519,Stabio,0,0,0,0
+566,8518452,Prilly-Malley,3,0,2,0
+567,8518475,Mendrisio S. Martino,0,0,0,0
+568,8518749,Lyss Grien,0,0,0,0
+569,8518771,Biel/Bienne Bözingenfeld/Champ,0,0,0,0
+570,8518963,Solothurn Allmend,1,0,1,0
+571,8519133,Fribourg/Freiburg Poya,1,0,1,0
