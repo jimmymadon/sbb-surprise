@@ -35,14 +35,17 @@ class App extends Component {
         method: 'POST',
         body: JSON.stringify(formData)
       })
-      .then(response => response.json())
-      .then(response => {
-        this.setState({
-          result: response.result,
-          isLoading: false
-        });
-      })
-      .catch(()=> console.log("ERROR"))
+      .then(response => response.json()
+        .then(response => {
+          console.log(response)
+          this.setState({
+            result: response.result,
+            isLoading: false
+          });
+          console.log("blblbl")
+        })
+      )
+      .catch((error)=> {console.log("ERROR"); console.log(error)})
   }
 
   render() {

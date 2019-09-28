@@ -32,7 +32,7 @@ class InputForm extends Component {
   handleSurpriseClick = (handleRequest, event) => {
     const formData = this.state.formData;
     this.setState({ isLoading: true });
-    console.log(formData);
+    console.log("Before POST request");
     handleRequest(formData);
   }
 
