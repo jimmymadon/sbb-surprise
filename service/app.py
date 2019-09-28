@@ -41,7 +41,7 @@ class MainClass(Resource):
     @app.expect(model)
     def post(self):
         try:
-            date = "2019-11-27"
+            date = "2019-12-14"
             time = "10%3A22"
             train_type = "IR%3BICE%2FTGV%2FRJ%2CEC%2FIC"
 
@@ -67,11 +67,12 @@ class MainClass(Resource):
                     })
                 for destinationId in destinationIds]
             print("FUUUUUCK")
-            print(request_results[0].text)
+            print(request_results)
+            print([r.json()[0]["segments"][0]["destination"]["name"] for r in request_results if r.status_code == 200])
             response = jsonify({
                 "statusCode": 200,
                 "status": "Prediction made",
-                "result": " ".join([r.json()[0]["segments"][0]["destination"]["name"] for r in request_results])
+                "result": " ".join([r.json()[0]["segments"][0]["destination"]["name"] for r in request_results if r.status_code == 200])
                 })
             # response.headers.add('Access-Control-Allow-Origin', '*')
             print("urra")
