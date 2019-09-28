@@ -27,18 +27,25 @@ class App extends Component {
       {
         headers: {
           'Accept': 'application/json',
-          'Content-Type': 'application/json'
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Headers': '*',
+          'Access-Control-Allow-Methods': '*',
         },
         method: 'POST',
         body: JSON.stringify(formData)
       })
-      .then(response => response.json())
-      .then(response => {
-        this.setState({
-          result: response.result,
-          isLoading: false
-        });
-      });
+      .then(response => response.json()
+        .then(response => {
+          console.log(response)
+          this.setState({
+            result: response.result,
+            isLoading: false
+          });
+          console.log("blblbl")
+        })
+      )
+      .catch((error)=> {console.log("ERROR"); console.log(error)})
   }
 
   render() {
