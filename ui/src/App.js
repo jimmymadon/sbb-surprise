@@ -53,7 +53,7 @@ class App extends Component {
   }
 
   handleCancelClick = (event) => {
-    this.setState({ result: "" });
+    this.setState({ result: "", formData: {startingLocation: ""} });
   }
 
   render() {
@@ -80,6 +80,7 @@ class App extends Component {
               </Form.Group>
             </Form.Row>
             <Row>
+              <Col>
                 <Button
                   block
                   variant="success"
@@ -87,6 +88,16 @@ class App extends Component {
                   onClick={!isLoading ? this.handleSurpriseClick : null}>
                   { isLoading ? 'Loading' : 'Surprise Me!' }
                 </Button>
+              </Col>
+              <Col>
+                <Button
+                  block
+                  variant="danger"
+                  disabled={isLoading}
+                  onClick={!isLoading ? this.handleCancelClick : null}>
+                  { isLoading ? 'Loading' : 'Reset' }
+                </Button>
+              </Col>
             </Row>
           </Form>
           {result === "" ? null :
