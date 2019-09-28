@@ -15,11 +15,7 @@ class App extends Component {
     this.state = {
       isLoading: false,
       formData: {
-        textfield1: '',
-        textfield2: '',
-        select1: 1,
-        select2: 1,
-        select3: 1
+        startingLocation: ''
       },
       result: ""
     };
@@ -35,7 +31,7 @@ class App extends Component {
     });
   }
 
-  handlePredictClick = (event) => {
+  handleSurpriseClick = (event) => {
     const formData = this.state.formData;
     this.setState({ isLoading: true });
     fetch('http://127.0.0.1:5000/prediction/', 
@@ -68,90 +64,29 @@ class App extends Component {
     return (
       <Container>
         <div>
-          <h1 className="title">ML React App</h1>
+          <h1 className="title">SBB Surprise</h1>
         </div>
         <div className="content">
           <Form>
             <Form.Row>
               <Form.Group as={Col}>
-                <Form.Label>Text Field 1</Form.Label>
+                <Form.Label>Starting Location</Form.Label>
                 <Form.Control 
                   type="text" 
-                  placeholder="Text Field 1" 
-                  name="textfield1"
-                  value={formData.textfield1}
+                  placeholder="Starting Location" 
+                  name="startingLocation"
+                  value={formData.startingLocation}
                   onChange={this.handleChange} />
-              </Form.Group>
-              <Form.Group as={Col}>
-                <Form.Label>Text Field 2</Form.Label>
-                <Form.Control 
-                  type="text" 
-                  placeholder="Text Field 2" 
-                  name="textfield2"
-                  value={formData.textfield2}
-                  onChange={this.handleChange} />
-              </Form.Group>
-            </Form.Row>
-            <Form.Row>
-              <Form.Group as={Col}>
-                <Form.Label>Select 1</Form.Label>
-                <Form.Control 
-                  as="select"
-                  value={formData.select1}
-                  name="select1"
-                  onChange={this.handleChange}>
-                  <option>1</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                </Form.Control>
-              </Form.Group>
-              <Form.Group as={Col}>
-                <Form.Label>Select 2</Form.Label>
-                <Form.Control 
-                  as="select"
-                  value={formData.select2}
-                  name="select2"
-                  onChange={this.handleChange}>
-                  <option>1</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                </Form.Control>
-              </Form.Group>
-              <Form.Group as={Col}>
-                <Form.Label>Select 3</Form.Label>
-                <Form.Control 
-                  as="select"
-                  value={formData.select3}
-                  name="select3"
-                  onChange={this.handleChange}>
-                  <option>1</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                </Form.Control>
               </Form.Group>
             </Form.Row>
             <Row>
-              <Col>
                 <Button
                   block
                   variant="success"
                   disabled={isLoading}
-                  onClick={!isLoading ? this.handlePredictClick : null}>
-                  { isLoading ? 'Making prediction' : 'Predict' }
+                  onClick={!isLoading ? this.handleSurpriseClick : null}>
+                  { isLoading ? 'Loading' : 'Surprise Me!' }
                 </Button>
-              </Col>
-              <Col>
-                <Button
-                  block
-                  variant="danger"
-                  disabled={isLoading}
-                  onClick={this.handleCancelClick}>
-                  Reset prediction
-                </Button>
-              </Col>
             </Row>
           </Form>
           {result === "" ? null :
