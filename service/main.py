@@ -3,7 +3,7 @@ import argparse
 
 from db_requests import select_random_cities, get_id_by_location
 from search_results import TripInfo, add_to_time
-
+#from app import call_for_offer_details, select_results
 
 CLIENT_ID = "22ebc2be"
 CLIENT_SECRET = "2c820784f3e28837959abc43120989ca"
@@ -38,7 +38,7 @@ def select_results(params, access_token):
         f"destinationId={destinationId}&originId={params.originId}&time={params.time}&trainType={params.train_type}",
         headers=headers) for destinationId in params.destinationIds]
 
-    print([r for r in request_results if r.status_code < 400])
+    #print([r for r in request_results if r.status_code < 400])
     print([r.json()[0]["segments"][0]["destination"]["name"] for r in request_results if r.status_code == 200])
 
     request_results = [r.json() for r in request_results if r.status_code == 200]
@@ -85,13 +85,30 @@ def main():
 
     offers_dict = select_results(search_params, access_token)
 
-    for destinationId, destination_offers in offers_dict.values():
-        for offer in destination_offers:
+    return_tickets = []
+    back_offers_dict = dict([(destinationId, []) for destinationId in destinationIds])
+    all_ss_tickets = {}
+    for destinationId, destination_offers in offers_dict.items():
+        for i, offer in enumerate(destination_offers):
             search_params = RequestParams(departure_date, [originId], destinationId,
                                           add_to_time(offer.destination_stop.time, 30), args.train_type)
-            back_offers_dict = select_results(search_params, access_token)
-            print(back_offers_dict, originId)
-            print(add_to_time(offer.destination_stop.time, 30))
+            back_offers_list = list(select_results(search_params, access_token).values())[0]
+            if i == 0:
+                back_offers_dict[destinationId].extend(back_offers_list)
+            for back_offer in back_offers_list:
+                if offer.superSaver or back_offer.superSaver:
+                    h, m = back_offer.destination_stop.time.split(":")
+                    sort_key = (offer.price + back_offer.price, offer.origin_stop.time, -int(h), -int(m))
+                    all_ss_tickets[sort_key] = (offer, back_offer)
+                    return_tickets.append(sort_key)
+    # for price, offer, o in return_tickets:
+    #     print(price)
+    #     print(offer.origin_stop.name, offer.origin_stop.time, offer.destination_stop.name, offer.destination_stop.time)
+    #     print(o.origin_stop.name, o.origin_stop.time, o.destination_stop.name, o.destination_stop.time)
+    #     print('=================')
+    best_ss = sorted(return_tickets)[0]
+    print(best_ss)
+    print(all_ss_tickets[best_ss])
 
 
 
