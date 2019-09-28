@@ -1,5 +1,5 @@
 /bin
 /include
 /lib
-
+/__pycache__
 .Python
