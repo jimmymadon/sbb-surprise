@@ -1,9 +1,25 @@
 .result-container {
   text-align: center;
-  font-weight: 600;
+  width: 600;
   font-size: 4em;
+  background-color: #fff;
+	/* padding: 50px 20px; */
+	-webkit-box-shadow: 0px 5px 20px -5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 5px 20px -5px rgba(0, 0, 0, 0.3);
+	border-radius: 4px;
+}
+
+.result-title{
+  font-weight: 600;
   letter-spacing: 0.15rem;
-  padding: 20px 0 0;
+}
+
+.result-image {
+
+}
+
+.result-content {
+
 }
 
 #result {

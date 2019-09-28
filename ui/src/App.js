@@ -4,6 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import InputForm from "./components/InputForm";
+import ResultsList from './components/ResultsList';
 
 class App extends Component {
 
@@ -36,10 +37,16 @@ class App extends Component {
         .then(response => {
           console.log(response)
           this.setState({
-            result: response.result,
+            // result: response.result,
+            result: {
+              dest: "Zurich",
+              start: "10:22",
+              ret: "20:00",
+              price:"12.80 CHF",
+              picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
+            },
             isLoading: false
           });
-          console.log("blblbl")
         })
       )
       .catch((error)=> {console.log("ERROR"); console.log(error)})
@@ -60,19 +67,13 @@ class App extends Component {
                 <p>Enter the destination you would like to start from, pick a date and pack your bags to travel to a surprise destination for upto 70% less!
                 </p>
               </div>
+              <ResultsList data={result} />
             </div>
             <div class="col-md-4 col-md-pull-7">
               <div class="booking-form">
                 <InputForm
                   onSubmit={this.handleSurpriseRequest}
                   isLoading={this.state.isLoading} />
-                {result === "" ? null :
-                  (<Row>
-                    <Col className="result-container">
-                      <h5 id="result">{result}</h5>
-                    </Col>
-                  </Row>)
-                }
               </div>
             </div>
           </div>
