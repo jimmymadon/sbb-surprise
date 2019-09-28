@@ -12,7 +12,9 @@ class InputForm extends Component {
     this.state = {
       // isLoading: this.props.isLoading,
       formData: {
-        startingLocation: ''
+        startingLocation: '',
+        dateOfTravel: '',
+        timeOfTravel: ''
       }
     };
   }
@@ -35,7 +37,7 @@ class InputForm extends Component {
   }
 
   handleCancelClick = (event) => {
-    this.setState({ formData: {startingLocation: ""} });
+    this.setState({ formData: {startingLocation: "", dateOfTravel: "", timeOfTravel: ""} });
   }
 
   render() {
