@@ -38,6 +38,13 @@ def get_coordinates_by_id(id_):
             return df.iloc[index].stop_lat, df.iloc[index].stop_lon
 
 
+def get_picture_by_id(id_):
+    df = pd.read_csv("../station_pictures_data.csv", sep=',')
+    for index, stop_id in enumerate(list(df.stop_id)):
+        if id_ == stop_id:
+            return df.iloc[index].images
+
+
 def select_random_cities(quantity=5):
     """
     :param quantity: number of cities
