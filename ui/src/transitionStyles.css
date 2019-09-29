@@ -1,0 +1,13 @@
+.bookingCTA-enter {
+  opacity: 0;
+}
+.bookingCTA-enter-active {
+  opacity: 1;
+}
+.bookingCTA-exit {
+  opacity: 1;
+}
+.bookingCTA-exit-active {
+  opacity: 0;
+  transition: opacity 1000ms;
+}
