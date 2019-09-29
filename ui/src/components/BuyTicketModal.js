@@ -42,13 +42,13 @@ class BuyTicketModal extends Component {
         aria-labelledby="contained-modal-title-vcenter"
         centered
       >
-        <Modal.Body>
-          <ModalHeader>
+        <Modal.Body style={{padding: 25}}>
+          {/* <ModalHeader> */}
           <Modal.Title id="contained-modal-title-vcenter">
             Buying ticket...
           </Modal.Title>
 
-          </ModalHeader>
+          {/* </ModalHeader> */}
           {/* <Transition in={true} timeout={5000}>
             {state => (
               <div style={{
