@@ -5,7 +5,7 @@ from flask_cors import CORS, cross_origin
 import json
 import pandas as pd
 
-from .db_requests import select_random_cities, get_id_by_location
+from .db_requests import select_random_cities, get_id_by_location, get_location_by_id
 from .search_results import RequestParams, select_results, combine_with_return_tickets
 
 
@@ -28,7 +28,7 @@ model = app.model('Prediction params',
                    "dateOfTravel": fields.String(required=True, description="data"),
                    "timeOfTravel": fields.String(required=True, description="time"),
                    "preferredActivities": fields.String(required=True, description="activities")
-                   }
+                   })
 
 
 @name_space.route("/")
@@ -49,7 +49,7 @@ class MainClass(Resource):
             originId = get_id_by_location(data_json['startingLocation'])
             departure_date = data_json['dateOfTravel']
             departure_time = data_json['timeOfTravel']
-            preferred_activities = data_json['preferredActivities']
+            preferred_activities = ['shopping'] #data_json['preferredActivities']
             preferred_activity = preferred_activities[0]
 
             auth = requests.post("https://sso-int.sbb.ch/auth/realms/SBB_Public/protocol/openid-connect/token",
@@ -59,10 +59,12 @@ class MainClass(Resource):
 
             response = jsonify({
                         "statusCode": 200,
-                        "status": "NotFound"
+                        "status": "NotFound",
+                        "result": "NotFound"
                         })
-            for _ in range(4):
-                destinationIds = select_random_cities(5)
+            for _ in range(10):
+                destinationIds = select_random_cities(5, f"../stops_{preferred_activity}_df.csv")
+                print([get_location_by_id(id) for id in destinationIds])
                 search_params = RequestParams(departure_date, destinationIds, originId, departure_time)
                 offers_dict = select_results(search_params, access_token)
                 return_tickets, all_ss_tickets = combine_with_return_tickets(
