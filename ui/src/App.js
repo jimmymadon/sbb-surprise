@@ -61,11 +61,17 @@ class App extends Component {
       <div class="section-center">
         <div class="container">
           <div class="row">
-            <div class="col-md-7 col-md-push-5">
+            <div class="col-md-8 col-md-push-5">
               <div class="booking-cta">
-                <h1>Where will we take you next?</h1>
-                <p>Enter the destination you would like to start from, pick a date and pack your bags to travel to a surprise destination for upto 70% less!
+                <h1>Where will we take you next?</h1><br/>
+                <p>Enter where you are,<br/>
+                pick a date,<br/>
+                and you'll be on your way to a<br/>
+                <span>surprise destination</span> for upto 70% less!
                 </p>
+                <small>
+                  **Crazier the surprise, crazier the place and crazier the price!
+                </small>
               </div>
               <ResultsList data={result} />
             </div>

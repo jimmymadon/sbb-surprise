@@ -67,6 +67,10 @@ class InputForm extends Component {
               name="timeOfTravel"
               value={formData.timeOfTravel}
               onChange={this.handleChange} />
+          <Form.Label>SB-Be Crazy Meter!**</Form.Label>
+          <div class="slidecontainer">
+            <input type="range" min="1" max="100" defaultValue="50" class="slider" id="myRange" />
+          </div>
         </Form.Group>
           <Col>
             <Button
