@@ -32,7 +32,7 @@ class BuyTicketModal extends Component {
       this.setState({loading: false})
     });
   }
-  
+
   render() {
     const loading = this.state.loading;
     return (
@@ -45,7 +45,7 @@ class BuyTicketModal extends Component {
         <Modal.Body style={{padding: 25}}>
           {/* <ModalHeader> */}
           <Modal.Title id="contained-modal-title-vcenter">
-            Buying ticket...
+            Purchase ticket...
           </Modal.Title>
 
           {/* </ModalHeader> */}
@@ -59,7 +59,7 @@ class BuyTicketModal extends Component {
                   <Fragment>
                     <Row>
                       <Col md={4}></Col>
-                      <Col md={4} style={{alignContent: 'center'}}>
+                      <Col md={6} style={{alignContent: 'center', marginLeft: '20px'}}>
                         <Spinner animation="border" variant="dark" />
                       </Col>
                       <Col md={4}></Col>
@@ -68,15 +68,12 @@ class BuyTicketModal extends Component {
                 ) : (
                   <Fragment>
                     <Row>
-                    <h5>Purchase Complete!</h5>
-                    </Row>
-                    <Row>
-                      Prepare your backpack ... you are going on an adventure!
+                    <h6>Purchase Complete! Pack your bags...you are going on an adventure to Locarno!</h6>
                     </Row>
                   </Fragment>
                 )
               }
-                
+
               {/* </div>
             )}
           </Transition> */}

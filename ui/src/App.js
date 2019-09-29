@@ -65,13 +65,13 @@ class App extends Component {
         .then(response => {
           console.log(response)
           if (response.statusCode != 200) {
-            // throw new Error("Bad Response from API"); 
+            // throw new Error("Bad Response from API");
           }
-          const { to, 
-                  from, 
-                  date, 
-                  forward_dep_time, 
-                  forward_arr_date, 
+          const { to,
+                  from,
+                  date,
+                  forward_dep_time,
+                  forward_arr_date,
                   backward_dep_time,
                   backward_arr_time,
                   price_forward,
@@ -89,11 +89,11 @@ class App extends Component {
             // },
             // MOCKUP
             result: {
-              dest: "Zurich",
+              dest: "Locarno",
               start: "10:22",
               ret: "20:05",
               priceTot: 1280,
-              picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
+              picUrl: "https://executive-limousines.ch/wp-content/uploads/2015/11/Madonna-del-Sasso-Locarno.jpg",
             },
             isLoading: false,
             startFetching: false,
@@ -138,7 +138,7 @@ class App extends Component {
                   }
                 </Transition>
                 </SwitchTransition>
-                
+
                 {/* ) :(
                   <Transition in={!isLoading} timeout={7000} unmountOnExit enter={false}>
                     {state => (

@@ -209,3 +209,7 @@
   background: url('https://cdn.app.sbb.ch/favicons/sbb/v1/favicon-32x32.png');
   cursor: pointer;
 }
+
+.modal-body .row {
+	padding: 25px;
+}
