@@ -57,22 +57,48 @@ class App extends Component {
       .then(response => response.json()
         .then(response => {
           console.log(response)
+          if (response.statusCode != 200) {
+            throw new Error("Bad Response from API"); 
+          }
+          const { to, 
+                  from, 
+                  date, 
+                  forward_dep_time, 
+                  forward_arr_date, 
+                  backward_dep_time,
+                  backward_arr_time,
+                  price_forward,
+                  price_backward
+                } = response;
           this.setState({
-            // result: response.result,
             result: {
-              dest: "Zurich",
-              start: "10:22",
-              ret: "20:00",
-              price:"12.80 CHF",
+              dest: to,
+              start: forward_dep_time,
+              ret: backward_arr_time,
+              priceTot: price_forward+price_backward,
+              priceF: price_forward,
+              priceB: price_backward,
               picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
             },
+            // MOCKUP
+            // result: {
+            //   dest: "Zurich",
+            //   start: "10:22",
+            //   ret: "20:00",
+            //   price:"12.80 CHF",
+            //   picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
+            // },
             isLoading: false,
             startFetching: false,
             hasResult: true
           });
         })
       )
-      .catch((error)=> {console.log("ERROR"); console.log(error)})
+      .catch((error)=> {
+        console.log("ERROR");
+        console.log(error)
+        this.setState( {isLoading: false, startFetching: false})
+      })
   }
 
   render() {
@@ -88,7 +114,7 @@ class App extends Component {
             <div class="col-md-7 col-md-push-5">
               {/* { hasResult ? ( */}
                 <SwitchTransition>
-                  <Transition in={hasResult} timeout={7000} key={hasResult ? "result" : "cta"}
+                  <Transition in={hasResult} timeout={500} key={hasResult ? "result" : "cta"}
                 addEndListener={(node, done) => node.addEventListener("transitionend", done, false)}
                 classNames='fade'>
                   {hasResult ?

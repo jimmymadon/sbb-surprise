@@ -18,8 +18,9 @@ class ResultsList extends Component {
 
   render() {
     const data = this.props.data;
-    const {dest, start, price, ret, picUrl} = data;
+    const {dest, start, priceTot, ret, picUrl} = data;
     console.log(data);
+    const priceDecimal = (priceTot/100).toFixed(2);
 
     return (
       <div>
@@ -47,7 +48,7 @@ class ResultsList extends Component {
                     </Card.Text>
                   </Col>
                   <Col md={2}>
-                    <Button variant="dark">{price}</Button>
+                    <Button variant="dark">{priceDecimal} CHF</Button>
                   </Col>
                 </Row>
               </Card.Body>
