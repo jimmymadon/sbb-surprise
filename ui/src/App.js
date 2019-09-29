@@ -65,7 +65,7 @@ class App extends Component {
         .then(response => {
           console.log(response)
           if (response.statusCode != 200) {
-            // throw new Error("Bad Response from API");
+            throw new Error("Bad Response from API");
           }
           const { to,
                   from,
@@ -78,42 +78,42 @@ class App extends Component {
                   price_backward
                 } = response;
           this.setState({
-            // result: {
-            //   dest: to,
-            //   start: forward_dep_time,
-            //   ret: backward_arr_time,
-            //   priceTot: price_forward+price_backward,
-            //   priceF: price_forward,
-            //   priceB: price_backward,
-            //   picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
-            // },
-            // MOCKUP
             result: {
-              dest: "Locarno",
-              start: "10:22",
-              ret: "20:05",
-              priceTot: 1280,
+              dest: to,
+              start: forward_dep_time,
+              ret: backward_arr_time,
+              priceTot: price_forward+price_backward,
+              priceF: price_forward,
+              priceB: price_backward,
               picUrl: "https://executive-limousines.ch/wp-content/uploads/2015/11/Madonna-del-Sasso-Locarno.jpg",
             },
+            // MOCKUP
+            // result: {
+            //   dest: "Locarno",
+            //   start: "10:22",
+            //   ret: "20:05",
+            //   priceTot: 1280,
+            //   picUrl: "https://executive-limousines.ch/wp-content/uploads/2015/11/Madonna-del-Sasso-Locarno.jpg",
+            // },
             isLoading: false,
             startFetching: false,
             hasResult: true
           });
         })
       )
-      // .catch((error)=> {
-      //   console.log("ERROR");
-      //   console.log(error)
-      //   this.setState( {isLoading: false, startFetching: false});
-      //   toast.error("Sorry something went wrong... We couldn't find any trip four you Location and time!", {
-      //     position: "bottom-center",
-      //     autoClose: 4000,
-      //     hideProgressBar: true,
-      //     closeOnClick: false,
-      //     pauseOnHover: true,
-      //     draggable: true,
-      //     });
-      // })
+      .catch((error)=> {
+        console.log("ERROR");
+        console.log(error)
+        this.setState( {isLoading: false, startFetching: false});
+        toast.error("Sorry something went wrong... We couldn't find any trip four you Location and time!", {
+          position: "bottom-center",
+          autoClose: 4000,
+          hideProgressBar: true,
+          closeOnClick: false,
+          pauseOnHover: true,
+          draggable: true,
+          });
+      })
   }
 
   render() {

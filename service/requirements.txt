@@ -6,3 +6,4 @@ jsonschema==3.0.1
 MarkupSafe==1.1.1
 numpy==1.16.2
 pandas==0.24.0
+requests==2.22.0
