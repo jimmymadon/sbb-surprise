@@ -6,6 +6,7 @@ import Row from 'react-bootstrap/Row';
 import InputForm from "./components/InputForm";
 import ResultsList from './components/ResultsList';
 import {SwitchTransition, Transition} from 'react-transition-group';
+import { ToastContainer, toast } from 'react-toastify';
 
 const transitionStyles = {
   entering: { opacity: 1 },
@@ -103,7 +104,15 @@ class App extends Component {
       .catch((error)=> {
         console.log("ERROR");
         console.log(error)
-        this.setState( {isLoading: false, startFetching: false})
+        this.setState( {isLoading: false, startFetching: false});
+        toast.error("Sorry something went wrong... We couldn't find any trip four you Location and time!", {
+          position: "bottom-center",
+          autoClose: 4000,
+          hideProgressBar: true,
+          closeOnClick: false,
+          pauseOnHover: true,
+          draggable: true,
+          });
       })
   }
 
@@ -151,6 +160,17 @@ class App extends Component {
               </div>
             </div>
           </div>
+        <ToastContainer
+          position="bottom-center"
+          autoClose={4000}
+          hideProgressBar={true}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnVisibilityChange
+          draggable
+          pauseOnHover
+        />
         </div>
       </div>
     );
