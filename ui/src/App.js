@@ -92,7 +92,7 @@ class App extends Component {
             //   dest: "Zurich",
             //   start: "10:22",
             //   ret: "20:00",
-            //   price:"12.80 CHF",
+            //   priceToT:1280,
             //   picUrl: "https://www.adlittle.com/sites/default/files/locations/istock-523202645.jpg",
             // },
             isLoading: false,
