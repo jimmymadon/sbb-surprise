@@ -31,7 +31,7 @@ class InputForm extends Component {
 
   handleSurpriseClick = (handleRequest, event) => {
     const formData = this.state.formData;
-    this.setState({ isLoading: true });
+    // this.setState({ isLoading: true });
     console.log("Before POST request");
     handleRequest(formData);
   }
@@ -73,7 +73,7 @@ class InputForm extends Component {
               block
               disabled={isLoading}
               onClick={!isLoading ? () => {this.handleSurpriseClick(onSubmit)} : null}>
-              { isLoading ? 'Loading' : 'Surprise Me!' }
+              { isLoading ? 'Hold your breath!' : 'Surprise Me!' }
             </Button>
           </Col>
       </Form>
