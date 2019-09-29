@@ -44,6 +44,11 @@
 	border: none;
 }
 
+.modal .btn {
+	background-color: #aa0000;
+	border: none;
+}
+
 .booking-form .form-group {
 	position: relative;
 	margin-bottom: 30px;
