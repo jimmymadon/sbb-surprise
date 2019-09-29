@@ -24,7 +24,7 @@ const ResultsList = (props) => {
                 <Card.Img variant="top" src={picUrl} />
                 <Card.Body>
                   <Card.Title style={{fontWeight: 800}}>{dest}</Card.Title>
-                  {/* <Row> */}
+                  <Row>
                     <Col md={5}>
                       <Card.Text>
                         Leave at {start}
@@ -36,16 +36,15 @@ const ResultsList = (props) => {
                       </Card.Text>
                     </Col>
                     <Col md={2}>
-                      <Button variant="dark">{priceDecimal} CHF</Button>
+                      <Button variant="dark"  onClick={() => setModalShow(true)}>{priceDecimal} CHF</Button>
                     </Col>
-                  {/* </Row> */}
+                  </Row>
               </Card.Body>
             </Card>
-
-              <BuyTicketModal
-                show={modalShow}
-                onHide={() => setModalShow(false)}
-              />
+            <BuyTicketModal
+              show={modalShow}
+              onHide={() => setModalShow(false)}
+            />
             </Fragment>
           )
         }
