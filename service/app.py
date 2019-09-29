@@ -5,8 +5,8 @@ from flask_cors import CORS, cross_origin
 import json
 import pandas as pd
 
-from .db_requests import select_random_cities, get_id_by_location, get_location_by_id
-from .search_results import RequestParams, select_results, combine_with_return_tickets
+from db_requests import select_random_cities, get_id_by_location, get_location_by_id
+from search_results import RequestParams, select_results, combine_with_return_tickets
 
 
 CLIENT_ID = "22ebc2be"

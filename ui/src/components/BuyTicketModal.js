@@ -28,12 +28,15 @@ class BuyTicketModal extends Component {
     }, 5000);
   });
   componentDidMount(){
-    this.fakeBuy.then(()=>{
-      this.setState({loading: false})
-    });
+    // this.fakeBuy.then(()=>{
+    //   this.setState({loading: false})
+    // });
   }
   
   render() {
+    this.fakeBuy.then(()=>{
+      this.setState({loading: false})
+    });
     const loading = this.state.loading;
     return (
       <Modal
